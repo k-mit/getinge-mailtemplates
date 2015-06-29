@@ -1,0 +1,1 @@
+# getinge-mailtemplates
