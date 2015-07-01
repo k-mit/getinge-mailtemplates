@@ -54,7 +54,7 @@
 			mso-line-height-rule:exactly;
 		}
 		a[href^=tel],a[href^=sms]{
-			color:#0c5da9;
+			color:inherit;
 			cursor:default;
 			text-decoration:none;
 		}
@@ -96,7 +96,7 @@
 	@tip Set the background color and top border for your email. You may want to choose colors that match your company's branding.
 	*/
 		body,#bodyTable{
-			background-color:#f2f2f2;
+			/*@editable*/background-color:#f2f2f2;
 		}
 	/*
 	@tab Page
@@ -104,7 +104,7 @@
 	@tip Set the background color and top border for your email. You may want to choose colors that match your company's branding.
 	*/
 		#bodyCell{
-			border-top:0;
+			/*@editable*/border-top:0;
 		}
 	/*
 	@tab Page
@@ -112,7 +112,7 @@
 	@tip Set the border for your email.
 	*/
 		.templateContainer{
-			border:0px solid ;
+			/*@editable*/border:2px solid ;
 		}
 	/*
 	@tab Page
@@ -121,14 +121,14 @@
 	@style heading 1
 	*/
 		h1{
-			color:#606060 !important;
-			font-family:Arial;
-			font-size:40px;
-			font-style:normal;
-			font-weight:bold;
-			line-height:125%;
-			letter-spacing:-1px;
-			text-align:left;
+			/*@editable*/color:#606060 !important;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:40px;
+			/*@editable*/font-style:normal;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:125%;
+			/*@editable*/letter-spacing:-1px;
+			/*@editable*/text-align:left;
 		}
 	/*
 	@tab Page
@@ -137,14 +137,15 @@
 	@style heading 2
 	*/
 		h2{
-			color:#404040 !important;
-            font-family:Arial;
-			font-size:26px;
-			font-style:normal;
-			font-weight:bold;
-			line-height:125%;
-			letter-spacing:-.75px;
-			text-align:left;
+			/*@editable*/color:#404040 !important;
+			;
+                /*@editable*/ font-family:Helvetica;
+			/*@editable*/font-size:26px;
+			/*@editable*/font-style:normal;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:125%;
+			/*@editable*/letter-spacing:-.75px;
+			/*@editable*/text-align:left;
 		}
 	/*
 	@tab Page
@@ -153,14 +154,14 @@
 	@style heading 3
 	*/
 		h3{
-			color:#606060 !important;
-			font-family:Arial;
-			font-size:18px;
-			font-style:normal;
-			font-weight:bold;
-			line-height:125%;
-			letter-spacing:-.5px;
-			text-align:left;
+			/*@editable*/color:#606060 !important;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:18px;
+			/*@editable*/font-style:normal;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:125%;
+			/*@editable*/letter-spacing:-.5px;
+			/*@editable*/text-align:left;
 		}
 	/*
 	@tab Page
@@ -169,14 +170,14 @@
 	@style heading 4
 	*/
 		h4{
-			color:#2ab2e5 !important;
-			font-family:Arial;
-			font-size:15px;
-			font-style:normal;
-			font-weight:bold;
-			line-height:125%;
-			letter-spacing:normal;
-			text-align:left;
+			/*@editable*/color:#2ab2e5 !important;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:15px;
+			/*@editable*/font-style:normal;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:125%;
+			/*@editable*/letter-spacing:normal;
+			/*@editable*/text-align:left;
 		}
 	/*
 	@tab Preheader
@@ -184,9 +185,9 @@
 	@tip Set the background color and borders for your email's preheader area.
 	*/
 		#templatePreheader{
-			background-color:#FFFFFF;
-			border-top:0;
-			border-bottom:0;
+			/*@editable*/background-color:#FFFFFF;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
 		}
 	/*
 	@tab Preheader
@@ -194,11 +195,11 @@
 	@tip Set the styling for your email's preheader text. Choose a size and color that is easy to read.
 	*/
 		.preheaderContainer .mcnTextContent,.preheaderContainer .mcnTextContent p{
-			color:#606060;
-			font-family:Arial;
-			font-size:11px;
-			line-height:125%;
-			text-align:left;
+			/*@editable*/color:#606060;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:11px;
+			/*@editable*/line-height:125%;
+			/*@editable*/text-align:left;
 		}
 	/*
 	@tab Preheader
@@ -206,9 +207,9 @@
 	@tip Set the styling for your email's preheader links. Choose a color that helps them stand out from your text.
 	*/
 		.preheaderContainer .mcnTextContent a{
-			color:#0c5da9;
-			font-weight:normal;
-			text-decoration:none;
+			/*@editable*/color:#0c5da9;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:none;
 		}
 	/*
 	@tab Header
@@ -216,9 +217,9 @@
 	@tip Set the background color and borders for your email's header area.
 	*/
 		#templateHeader{
-			background-color:#FFFFFF;
-			border-top:0;
-			border-bottom:0;
+			/*@editable*/background-color:#FFFFFF;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
 		}
 	/*
 	@tab Header
@@ -226,11 +227,11 @@
 	@tip Set the styling for your email's header text. Choose a size and color that is easy to read.
 	*/
 		.headerContainer .mcnTextContent,.headerContainer .mcnTextContent p{
-			color:#606060;
-			font-family:Arial;
-			font-size:15px;
-			line-height:150%;
-			text-align:left;
+			/*@editable*/color:#606060;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:15px;
+			/*@editable*/line-height:150%;
+			/*@editable*/text-align:left;
 		}
 	/*
 	@tab Header
@@ -238,9 +239,9 @@
 	@tip Set the styling for your email's header links. Choose a color that helps them stand out from your text.
 	*/
 		.headerContainer .mcnTextContent a{
-			color:#0c5da9;
-			font-weight:normal;
-			text-decoration:none;
+			/*@editable*/color:#0c5da9;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:none;
 		}
 	/*
 	@tab Body
@@ -248,9 +249,9 @@
 	@tip Set the background color and borders for your email's body area.
 	*/
 		#templateBody{
-			background-color:#FFFFFF;
-			border-top:0;
-			border-bottom:0;
+			/*@editable*/background-color:#FFFFFF;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
 		}
 	/*
 	@tab Body
@@ -258,11 +259,11 @@
 	@tip Set the styling for your email's body text. Choose a size and color that is easy to read.
 	*/
 		.bodyContainer .mcnTextContent,.bodyContainer .mcnTextContent p{
-			color:#606060;
-			font-family:Arial;
-			font-size:15px;
-			line-height:150%;
-			text-align:left;
+			/*@editable*/color:#606060;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:15px;
+			/*@editable*/line-height:150%;
+			/*@editable*/text-align:left;
 		}
 	/*
 	@tab Body
@@ -270,9 +271,9 @@
 	@tip Set the styling for your email's body links. Choose a color that helps them stand out from your text.
 	*/
 		.bodyContainer .mcnTextContent a{
-			color:#0c5da9;
-			font-weight:normal;
-			text-decoration:none;
+			/*@editable*/color:#0c5da9;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:none;
 		}
 	/*
 	@tab Upper Columns
@@ -280,9 +281,9 @@
 	@tip Set the background color and borders for your email's columns.
 	*/
 		#templateUpperColumns{
-			background-color:#FFFFFF;
-			border-top:0;
-			border-bottom:0;
+			/*@editable*/background-color:#FFFFFF;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
 		}
 	/*
 	@tab Upper Columns
@@ -290,11 +291,11 @@
 	@tip Set the styling for your email's left column text. Choose a size and color that is easy to read.
 	*/
 		.upperLeftColumnContainer .mcnTextContent,.upperLeftColumnContainer .mcnTextContent p{
-			color:#606060;
-			font-family:Arial;
-			font-size:15px;
-			line-height:150%;
-			text-align:left;
+			/*@editable*/color:#606060;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:15px;
+			/*@editable*/line-height:150%;
+			/*@editable*/text-align:left;
 		}
 	/*
 	@tab Upper Columns
@@ -302,9 +303,9 @@
 	@tip Set the styling for your email's left column links. Choose a color that helps them stand out from your text.
 	*/
 		.upperLeftColumnContainer .mcnTextContent a,.upperLeftColumnContainer .mcnTextContent p a{
-			color:#0c5da9;
-			font-weight:normal;
-			text-decoration:none;
+			/*@editable*/color:#0c5da9;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:none;
 		}
 	/*
 	@tab Upper Columns
@@ -312,11 +313,11 @@
 	@tip Set the styling for your email's center column text. Choose a size and color that is easy to read.
 	*/
 		.upperCenterColumnContainer .mcnTextContent,.upperCenterColumnContainer .mcnTextContent p{
-			color:#606060;
-			font-family:Arial;
-			font-size:15px;
-			line-height:150%;
-			text-align:left;
+			/*@editable*/color:#606060;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:15px;
+			/*@editable*/line-height:150%;
+			/*@editable*/text-align:left;
 		}
 	/*
 	@tab Upper Columns
@@ -324,9 +325,9 @@
 	@tip Set the styling for your email's center column links. Choose a color that helps them stand out from your text.
 	*/
 		.upperCenterColumnContainer .mcnTextContent a,.upperCenterColumnContainer .mcnTextContent p a{
-			color:#0c5da9;
-			font-weight:normal;
-			text-decoration:none;
+			/*@editable*/color:#6DC6DD;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:underline;
 		}
 	/*
 	@tab Upper Columns
@@ -334,11 +335,11 @@
 	@tip Set the styling for your email's right column text. Choose a size and color that is easy to read.
 	*/
 		.upperRightColumnContainer .mcnTextContent,.upperRightColumnContainer .mcnTextContent p{
-			color:#606060;
-			font-family:Arial;
-			font-size:15px;
-			line-height:150%;
-			text-align:left;
+			/*@editable*/color:#606060;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:15px;
+			/*@editable*/line-height:150%;
+			/*@editable*/text-align:left;
 		}
 	/*
 	@tab Upper Columns
@@ -346,9 +347,9 @@
 	@tip Set the styling for your email's right column links. Choose a color that helps them stand out from your text.
 	*/
 		.upperRightColumnContainer .mcnTextContent a,.upperRightColumnContainer .mcnTextContent p a{
-			color:#6DC6DD;
-			font-weight:normal;
-			text-decoration:underline;
+			/*@editable*/color:#6DC6DD;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:underline;
 		}
 	/*
 	@tab Lower Columns
@@ -356,9 +357,9 @@
 	@tip Set the background color and borders for your email's columns.
 	*/
 		#templateLowerColumns{
-			background-color:#FFFFFF;
-			border-top:0;
-			border-bottom:0;
+			/*@editable*/background-color:#FFFFFF;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
 		}
 	/*
 	@tab Lower Columns
@@ -366,11 +367,11 @@
 	@tip Set the styling for your email's left column text. Choose a size and color that is easy to read.
 	*/
 		.lowerLeftColumnContainer .mcnTextContent,.lowerLeftColumnContainer .mcnTextContent p{
-			color:#606060;
-			font-family:Arial;
-			font-size:15px;
-			line-height:150%;
-			text-align:left;
+			/*@editable*/color:#606060;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:15px;
+			/*@editable*/line-height:150%;
+			/*@editable*/text-align:left;
 		}
 	/*
 	@tab Lower Columns
@@ -378,9 +379,9 @@
 	@tip Set the styling for your email's left column links. Choose a color that helps them stand out from your text.
 	*/
 		.lowerLeftColumnContainer .mcnTextContent a,.lowerLeftColumnContainer .mcnTextContent p a{
-			color:#0c5da9;
-			font-weight:normal;
-			text-decoration:none;
+			/*@editable*/color:#0c5da9;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:none;
 		}
 	/*
 	@tab Lower Columns
@@ -388,11 +389,11 @@
 	@tip Set the styling for your email's right column text. Choose a size and color that is easy to read.
 	*/
 		.lowerRightColumnContainer .mcnTextContent,.lowerRightColumnContainer .mcnTextContent p{
-			color:#606060;
-			font-family:Arial;
-			font-size:15px;
-			line-height:150%;
-			text-align:left;
+			/*@editable*/color:#606060;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:15px;
+			/*@editable*/line-height:150%;
+			/*@editable*/text-align:left;
 		}
 	/*
 	@tab Lower Columns
@@ -400,9 +401,9 @@
 	@tip Set the styling for your email's right column links. Choose a color that helps them stand out from your text.
 	*/
 		.lowerRightColumnContainer .mcnTextContent a,.lowerRightColumnContainer .mcnTextContent p a{
-			color:#0c5da9;
-			font-weight:normal;
-			text-decoration:none;
+			/*@editable*/color:#6DC6DD;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:underline;
 		}
 	/*
 	@tab Footer
@@ -410,9 +411,9 @@
 	@tip Set the background color and borders for your email's footer area.
 	*/
 		#templateFooter{
-			background-color:#FFFFFF;
-			border-top:0;
-			border-bottom:0;
+			/*@editable*/background-color:#FFFFFF;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
 		}
 	/*
 	@tab Footer
@@ -420,11 +421,11 @@
 	@tip Set the styling for your email's footer text. Choose a size and color that is easy to read.
 	*/
 		.footerContainer .mcnTextContent,.footerContainer .mcnTextContent p{
-			color:#606060;
-			font-family:Arial;
-			font-size:11px;
-			line-height:125%;
-			text-align:center;
+			/*@editable*/color:#606060;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:11px;
+			/*@editable*/line-height:125%;
+			/*@editable*/text-align:center;
 		}
 	/*
 	@tab Footer
@@ -432,9 +433,9 @@
 	@tip Set the styling for your email's footer links. Choose a color that helps them stand out from your text.
 	*/
 		.footerContainer .mcnTextContent a,.footerContainer .mcnTextContent p a{
-			color:#0c5da9;
-			font-weight:normal;
-			text-decoration:none;
+			/*@editable*/color:#0c5da9;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:none;
 		}
 	@media screen and (min-width:768px){
 		.templateContainer{
@@ -554,8 +555,8 @@
 	@tip Make the first-level headings larger in size for better readability on small screens.
 	*/
 		h1{
-			font-size:24px !important;
-			line-height:125% !important;
+			/*@editable*/font-size:24px !important;
+			/*@editable*/line-height:125% !important;
 		}
 
 }	@media only screen and (max-width:480px){
@@ -565,8 +566,8 @@
 	@tip Make the second-level headings larger in size for better readability on small screens.
 	*/
 		h2{
-			font-size:20px !important;
-			line-height:125% !important;
+			/*@editable*/font-size:20px !important;
+			/*@editable*/line-height:125% !important;
 		}
 
 }	@media only screen and (max-width:480px){
@@ -576,8 +577,8 @@
 	@tip Make the third-level headings larger in size for better readability on small screens.
 	*/
 		h3{
-			font-size:18px !important;
-			line-height:125% !important;
+			/*@editable*/font-size:18px !important;
+			/*@editable*/line-height:125% !important;
 		}
 
 }	@media only screen and (max-width:480px){
@@ -587,8 +588,8 @@
 	@tip Make the fourth-level headings larger in size for better readability on small screens.
 	*/
 		h4{
-			font-size:16px !important;
-			line-height:125% !important;
+			/*@editable*/font-size:16px !important;
+			/*@editable*/line-height:125% !important;
 		}
 
 }	@media only screen and (max-width:480px){
@@ -598,8 +599,8 @@
 	@tip Make the boxed text larger in size for better readability on small screens. We recommend a font size of at least 16px.
 	*/
 		table.mcnBoxedTextContentContainer td.mcnTextContent,td.mcnBoxedTextContentContainer td.mcnTextContent p{
-			font-size:18px !important;
-			line-height:125% !important;
+			/*@editable*/font-size:18px !important;
+			/*@editable*/line-height:125% !important;
 		}
 
 }	@media only screen and (max-width:480px){
@@ -609,7 +610,7 @@
 	@tip Set the visibility of the email's preheader on small screens. You can hide it to save space.
 	*/
 		td#templatePreheader{
-			display:block !important;
+			/*@editable*/display:block !important;
 		}
 
 }	@media only screen and (max-width:480px){
@@ -619,8 +620,8 @@
 	@tip Make the preheader text larger in size for better readability on small screens.
 	*/
 		td.preheaderContainer td.mcnTextContent,td.preheaderContainer td.mcnTextContent p{
-			font-size:14px !important;
-			line-height:115% !important;
+			/*@editable*/font-size:14px !important;
+			/*@editable*/line-height:115% !important;
 		}
 
 }	@media only screen and (max-width:480px){
@@ -630,8 +631,8 @@
 	@tip Make the header text larger in size for better readability on small screens.
 	*/
 		td.headerContainer td.mcnTextContent,td.headerContainer td.mcnTextContent p{
-			font-size:18px !important;
-			line-height:125% !important;
+			/*@editable*/font-size:18px !important;
+			/*@editable*/line-height:125% !important;
 		}
 
 }	@media only screen and (max-width:480px){
@@ -641,8 +642,8 @@
 	@tip Make the body text larger in size for better readability on small screens. We recommend a font size of at least 16px.
 	*/
 		td.bodyContainer td.mcnTextContent,td.bodyContainer td.mcnTextContent p{
-			font-size:18px !important;
-			line-height:125% !important;
+			/*@editable*/font-size:18px !important;
+			/*@editable*/line-height:125% !important;
 		}
 
 }	@media only screen and (max-width:480px){
@@ -652,8 +653,8 @@
 	@tip Make the left column text larger in size for better readability on small screens. We recommend a font size of at least 16px.
 	*/
 		td.upperLeftColumnContainer td.mcnTextContent,td.upperLeftColumnContainer td.mcnTextContent p{
-			font-size:16px !important;
-			line-height:125% !important;
+			/*@editable*/font-size:16px !important;
+			/*@editable*/line-height:125% !important;
 		}
 
 }	@media only screen and (max-width:480px){
@@ -663,8 +664,8 @@
 	@tip Make the center column text larger in size for better readability on small screens. We recommend a font size of at least 16px.
 	*/
 		td.upperCenterColumnContainer td.mcnTextContent,td.upperCenterColumnContainer td.mcnTextContent p{
-			font-size:16px !important;
-			line-height:125% !important;
+			/*@editable*/font-size:16px !important;
+			/*@editable*/line-height:125% !important;
 		}
 
 }	@media only screen and (max-width:480px){
@@ -674,8 +675,8 @@
 	@tip Make the right column text larger in size for better readability on small screens. We recommend a font size of at least 16px.
 	*/
 		td.upperRightColumnContainer td.mcnTextContent,td.upperRightColumnContainer td.mcnTextContent p{
-			font-size:16px !important;
-			line-height:125% !important;
+			/*@editable*/font-size:16px !important;
+			/*@editable*/line-height:125% !important;
 		}
 
 }	@media only screen and (max-width:480px){
@@ -711,8 +712,8 @@
 	@tip Make the body content text larger in size for better readability on small screens.
 	*/
 		td.footerContainer td.mcnTextContent,td.footerContainer td.mcnTextContent p{
-			font-size:14px !important;
-			line-height:115% !important;
+			/*@editable*/font-size:14px !important;
+			/*@editable*/line-height:115% !important;
 		}
 
 }</style></head>
@@ -784,8 +785,15 @@
                         
                         <td valign="top" class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;">
                         
-                            <table><tbody><tr><td><img align="none" height="64" src="https://gallery.mailchimp.com/6aaf14738b3973934309cb78e/images/8615d84d-987c-4f73-a1c3-29e5f67d0d91.png" style="width: 189px; height: 64px; margin: 0px;" width="189"></td>
-<td style="font-family:arial,helvetica neue,helvetica,sans-serif;font-size:24pt;color:#999999;">SERVO ventilators win</td></tr></tbody></table>
+                            <table>
+	<tbody>
+		<tr>
+			<td><img align="none" height="33" src="https://gallery.mailchimp.com/6aaf14738b3973934309cb78e/images/8615d84d-987c-4f73-a1c3-29e5f67d0d91.png" style="width: 100px; height: 33px; margin: 0px;" width="100"></td>
+			<td align="right" style="padding-left:30px;font-family:arial,helvetica neue,helvetica,sans-serif;font-size:22pt;color:#999999;text-align:right;">SERVO&nbsp;ventilators&nbsp;win</td>
+		</tr>
+	</tbody>
+</table>
+
                         </td>
                     </tr>
                 </tbody></table>
@@ -804,7 +812,21 @@
                                     <!-- BEGIN HEADER // -->
                                     <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
                                         <tr>
-                                            <td align="center" valign="top" class="headerContainer"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnImageBlock">
+                                            <td align="center" valign="top" class="headerContainer"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnDividerBlock">
+    <tbody class="mcnDividerBlockOuter">
+        <tr>
+            <td class="mcnDividerBlockInner" style="padding: 18px;">
+                <table class="mcnDividerContent" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-top-width: 1px;border-top-style: dashed;border-top-color: #999999;">
+                    <tbody><tr>
+                        <td>
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnImageBlock">
     <tbody class="mcnImageBlockOuter">
             <tr>
                 <td valign="top" style="padding:0px" class="mcnImageBlockInner">
@@ -813,7 +835,7 @@
                             <td class="mcnImageContent" valign="top" style="padding-right: 0px; padding-left: 0px; padding-top: 0; padding-bottom: 0;">
                                 
                                     
-                                        <img align="left" alt="" src="https://gallery.mailchimp.com/6aaf14738b3973934309cb78e/images/312d479c-f0c9-42b4-a400-48b65680c3a9.png" width="600" style="max-width:980px; padding-bottom: 0; display: inline !important; vertical-align: bottom;" class="mcnImage">
+                                        <img align="left" alt="" src="https://gallery.mailchimp.com/6aaf14738b3973934309cb78e/images/312d479c-f0c9-42b4-a400-48b65680c3a9.png" width="596" style="max-width:980px; padding-bottom: 0; display: inline !important; vertical-align: bottom;" class="mcnImage">
                                     
                                 
                             </td>
@@ -1110,7 +1132,7 @@ font-size: 10pt
 Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after&nbsp;<br>
 installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.<br>
 <br>
-Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas. Dramatically maintain clicks-and-mortar solutions without functional solutions.
+Efficiently unleash cross-media information without cross-media value.&nbsp;
                                     </td>
                                 </tr>
                             </tbody></table>
@@ -1131,7 +1153,7 @@ Efficiently unleash cross-media information without cross-media value. Quickly m
                         
                         <td class="mcnBoxedTextContentColumn" style="padding-top:9px; padding-left:18px; padding-bottom:9px; padding-right:0;">
                         
-                            <table border="0" cellpadding="18" cellspacing="0" class="mcnTextContentContainer" width="100%" style="border: 1px none #ffffff;background-color: #f4f4f5;">
+                            <table border="0" cellpadding="18" cellspacing="0" class="mcnTextContentContainer" width="100%" style="border: 1px none #999999;background-color: #F4F4F5;">
                                 <tbody><tr>
                                     <td valign="top" class="mcnTextContent">
                                         <h2 class="null">INSIGHT – The Clinical Logistics Solution</h2>
@@ -1157,7 +1179,7 @@ throughout the hospital.<br>
                         
                         <td class="mcnBoxedTextContentColumn" style="padding-top:9px; padding-right:18px; padding-bottom:9px; padding-left:0;">
                         
-                            <table border="0" cellpadding="18" cellspacing="0" class="mcnTextContentContainer" width="100%" style="border: 1px none #ffffff;background-color: #f4f4f5;">
+                            <table border="0" cellpadding="18" cellspacing="0" class="mcnTextContentContainer" width="100%" style="border: 1px none #999999;background-color: #F4F4F5;">
                                 <tbody><tr>
                                     <td valign="top" class="mcnTextContent">
                                         <h2 class="null">INSIGHT – The Clinical Logistics Solution</h2>
@@ -1402,40 +1424,6 @@ interdepartmental workflows throughout the hospital.<br>
             </td>
         </tr>
     </tbody>
-</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnBoxedTextBlock">
-    <tbody class="mcnBoxedTextBlockOuter">
-        <tr>
-            <td valign="top" class="mcnBoxedTextBlockInner">
-                
-                <table align="left" border="0" cellpadding="0" cellspacing="0" width="298" class="mcnBoxedTextContentContainer">
-                    <tbody><tr>
-                        
-                        <td style="padding-top:9px; padding-left:18px; padding-bottom:9px; padding-right:18px;">
-                        
-                            <table border="0" cellpadding="18" cellspacing="0" class="mcnTextContentContainer" width="100%" style="border: 1px none #ffffff;background-color: #f4f4f5;">
-                                <tbody><tr>
-                                    <td valign="top" class="mcnTextContent">
-                                        <h2 class="null">INSIGHT – The Clinical Logistics Solution</h2>
-
-<h4 class="null">2015.06.02 | Exhibition</h4>
-In addition to our innovative solutions for the operating theater, hybrid OR, intensive care unit and patient&nbsp;<br>
-transport, we are pleased to introduce a new software solution that ties together all aspects of patient care: “INSIGHT.“<br>
-<br>
-This IT tool sets the standards for the future. It tracks each patient from admission to discharge, facilitating care and streamlining&nbsp;<br>
-interdepartmental workflows&nbsp;<br>
-throughout the hospital.<br>
-<br>
-<a href="http://getingegroup.com" target="_blank">Read more ⟶</a>
-                                    </td>
-                                </tr>
-                            </tbody></table>
-                        </td>
-                    </tr>
-                </tbody></table>
-                
-            </td>
-        </tr>
-    </tbody>
 </table></td>
                                                     </tr>
                                                 </table>
@@ -1501,25 +1489,115 @@ Come to booth no. S2G30 to learn more and exchange ideas at our bistro while you
                             <tr>
                                 <td align="center" valign="top" id="templateFooter">
                                     <!-- BEGIN FOOTER // -->
-                                    <table style="background-color:#0046ad;max-width:980px; padding-bottom: 0;color:#ffffff;font-size:6pt;font-weight:100;width:100%;" width="100%">
-                                        <tbody>
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
                                         <tr>
-                                            <td colspan="3">
-                                                <hr style="margin:10px;"></td>
-                                        </tr>
-                                        <tr>
-                                            <td style="padding-left:10px;padding-top:10px;padding-bottom:10px;width:110px" width="110"><img src="https://gallery.mailchimp.com/6aaf14738b3973934309cb78e/images/19db554b-a72a-4a1c-8236-f7cfdefffce1.gif" width="100"></td>
-                                            <td width="210">&nbsp;</td>
-                                            <td align="left">Contact us About MAQUET Privacy Policy Terms of Use<br>
-                                                © 2014 MAQUET Holding B.V. &amp; Co. KG. All rights reserve</td>
-                                        </tr>
-                                        <tr>
-                                            <td colspan="3">
-                                                <hr style="margin:10px;border-style: none none dashed;"></td>
-                                        </tr>
-                                        </tbody>
-                                    </table>
+                                            <td valign="top" class="footerContainer"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnBoxedTextBlock">
+    <tbody class="mcnBoxedTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnBoxedTextBlockInner">
+                
+                <table align="left" border="0" cellpadding="0" cellspacing="0" width="596" class="mcnBoxedTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td style="padding-top:9px; padding-left:18px; padding-bottom:9px; padding-right:18px;">
+                        
+                            <table border="0" cellpadding="18" cellspacing="0" class="mcnTextContentContainer" width="100%" style="border: 1px none #999999;background-color: #F4F4F5;">
+                                <tbody><tr>
+                                    <td valign="top" class="mcnTextContent">
+                                        <h2 class="null">INSIGHT – The Clinical Logistics Solution</h2>
 
+<h4 class="null">2015.06.02 | Exhibition</h4>
+In addition to our innovative solutions for the operating theater, hybrid OR, intensive care unit and patient&nbsp;<br>
+transport, we are pleased to introduce a new software solution that ties together all aspects of patient care: “INSIGHT.“<br>
+<br>
+This IT tool sets the standards for the future. It tracks each patient from admission to discharge, facilitating care and streamlining&nbsp;<br>
+interdepartmental workflows&nbsp;<br>
+throughout the hospital.<br>
+<br>
+<a href="http://getingegroup.com" target="_blank">Read more ⟶</a>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </td>
+                    </tr>
+                </tbody></table>
+                
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner">
+
+                <table align="left" border="0" cellpadding="0" cellspacing="0" width="596" class="mcnTextContentContainer">
+                    <tbody><tr>
+
+                        <td valign="top" class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;">
+
+                            <table style="background-color:#0046ad;max-width:980px; padding-bottom: 0;color:#ffffff;font-size:6pt;font-weight:100;margin-left:-20px;margin-right:20px;width:100%;" width="100%">
+	<tbody>
+		<tr>
+			<td colspan="3">
+			<hr style="margin:10px;"></td>
+		</tr>
+		<tr>
+			<td style="padding-left:10px;padding-top:10px;padding-bottom:10px;width:110px" width="110"><img src="https://gallery.mailchimp.com/6aaf14738b3973934309cb78e/images/19db554b-a72a-4a1c-8236-f7cfdefffce1.gif" width="100"></td>
+			<td width="210">&nbsp;</td>
+			<td align="left">Contact us About MAQUET Privacy Policy Terms of Use<br>
+			© 2014 MAQUET Holding B.V. &amp; Co. KG. All rights reserve</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+			<hr style="margin:10px;border-style: none none dashed;"></td>
+		</tr>
+	</tbody>
+</table>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+                
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner">
+                
+                <table align="left" border="0" cellpadding="0" cellspacing="0" width="600" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;">
+                        
+                            <em>Copyright © *|CURRENT_YEAR|* *|LIST:COMPANY|*, All rights reserved.</em>
+<br>
+*|IFNOT:ARCHIVE_PAGE|*
+    *|LIST:DESCRIPTION|*
+    <br>
+    <br>
+    <strong>Our mailing address is:</strong>
+    <br>
+    *|HTML:LIST_ADDRESS_HTML|* *|END:IF|*
+    <br>
+    <br>
+    <a href="*|UNSUB|*" class="utilityLink">unsubscribe from this list</a>&nbsp;&nbsp;&nbsp;
+    <a href="*|UPDATE_PROFILE|*" class="utilityLink">update subscription preferences</a>&nbsp;
+    <br>
+    <br>
+    *|IF:REWARDS|* *|HTML:REWARDS|*
+*|END:IF|*
+                        </td>
+                    </tr>
+                </tbody></table>
+                
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </table>
                                     <!-- // END FOOTER -->
                                 </td>
                             </tr>
