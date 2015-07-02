@@ -461,7 +461,7 @@ h4 {
 @tip Set the styling for your email's footer text. Choose a size and color that is easy to read.
 */
 .footerContainer .mcnTextContent, .footerContainer .mcnTextContent p {
-    color: #333333;
+    color: #ffffff;
     font-family: Arial;
     font-size: 11px;
     line-height: 125%;
@@ -474,7 +474,7 @@ h4 {
 @tip Set the styling for your email's footer links. Choose a color that helps them stand out from your text.
 */
 .footerContainer .mcnTextContent a, .footerContainer .mcnTextContent p a {
-    color: #0c5da9;
+    color: #ffffff;
     font-weight: normal;
     text-decoration: none;
 }

@@ -2,7 +2,7 @@
     <tbody>
     <tr>
         <td style="background-color:#0046ad; padding: 18px;color:#ffffff;font-size:11px;font-weight:100;width:100%;" width="100%">
-            <table width="100%" style="width: 100%; border-top: 1px solid white; border-bottom: 1px dashed white;" class="footerContainer">
+            <table width="100%" style="width: 100%; border-top: 1px solid #ffffff; border-bottom: 1px dashed #ffffff;" class="footerContainer">
                 <tr>
                     <td width="100%" style="width: 100%; padding: 18px 0">
                         <table width="100%" border="0" cellspacing="0" cellpadding="0" style="" class="footerContent">
