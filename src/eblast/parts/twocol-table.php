@@ -26,10 +26,10 @@
                                                 <table width="100%" cellpadding="5" class="hideableTable" style="font-family: Arial;padding:9px;font-size: 13px;!important">
                                                     <thead class="eor"
                                                            style="background-color: #cccccc;font-size:font-size: 15px;color:white;">
-                                                    <tr class="background-color: #cccccc;">
-                                                        <th style="background-color: #cccccc;color:white;">XYZ</th>
-                                                        <th style="background-color: #cccccc;color:white;">ABC</th>
-                                                        <th style="background-color: #cccccc;color:white;">DEF</th>
+                                                    <tr class="background-color: #cccccc;color:#ffffff">
+                                                        <th>XYZ</th>
+                                                        <th>ABC</th>
+                                                        <th>DEF</th>
                                                     </tr>
                                                     </thead>
                                                     <tbody class="eor eor-body">
