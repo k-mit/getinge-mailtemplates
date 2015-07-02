@@ -26,7 +26,7 @@
                                                 <table width="100%" cellpadding="5" class="hideableTable" style="font-family: Arial;padding:9px;font-size: 13px;!important">
                                                     <thead class="eor"
                                                            style="background-color: #cccccc;font-size:font-size: 15px;color:white;">
-                                                    <tr class="background-color: #cccccc;color:#ffffff">
+                                                    <tr style="background-color: #cccccc;color:#ffffff">
                                                         <th>XYZ</th>
                                                         <th>ABC</th>
                                                         <th>DEF</th>
