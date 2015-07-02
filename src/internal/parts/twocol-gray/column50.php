@@ -16,7 +16,7 @@
 									<table style="background-color: #e1eaf1" align="left" border="0" cellpadding="0"
 										   cellspacing="0">
 										<tr>
-											<td style="padding: 9px; text-align: left">
+											<td style="padding: 9px; text-align: left" class="mcnTextContent">
 												<h2>Lorem ipsum dolor sit amet, ferri consul laudem.</h2>
 
 												<span

@@ -51,7 +51,7 @@
                                 </tr>
 
                                 <tr>
-                                    <td valign="top" class="bodyContainer">
+                                    <td valign="top" class="bodyContainer" style="padding: 9px 0">
                                         <?php include("parts/twocol-image/wrapper.php"); ?>
 
                                     </td>
@@ -79,7 +79,7 @@
                                 </tr>
 
                                 <tr>
-                                    <td align="center" valign="top" id="twoColumns">
+                                    <td align="center" valign="top" id="twoColumnsGray">
                                         <!-- BEGIN 2 COLUMNS-GREY // -->
                                         <?php include("parts/twocol-gray/wrapper.php"); ?>
                                         <!-- // END 2 COLUMNS-GREY -->

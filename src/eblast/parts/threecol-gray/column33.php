@@ -15,7 +15,7 @@
                                     <td class="mcnTextContent gray" valign="top" style="" width="100%">
                                         <table style="background-color: #f4f4f5" align="left" border="0" cellpadding="0" cellspacing="0">
                                             <tr>
-                                                <td style="padding: 9px; text-align: left">
+                                                <td class="mcnTextContent" style="padding: 9px; text-align: left">
                                                     <h2>Lorem ipsum dolor sit amet, ferri consul laudem.</h2>
                                                     <span style="color:#2ab2e5; font-size:12px; display: block; padding-top: 9px;">2015.06.02 | Exhibition</span>
                                                     Experience how INSIGHT can improve workflow efficiency and the quality of

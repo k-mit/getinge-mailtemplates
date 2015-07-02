@@ -789,6 +789,11 @@ table.showableTable {
         padding-left: 0!important;
         padding-top: 18px;
     }
+    .twocolImage td {
+        /*width: 100%!important;*/
+        /*display: block!important;*/
+
+    }
 }
 .eor tr:nth-child(even) td {
     background-color: #ededed;
