@@ -1,0 +1,817 @@
+p {
+    margin: 1em 0;
+}
+
+a {
+    word-wrap: break-word;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+img, a img {
+    border: 0;
+    height: auto;
+    outline: none;
+    text-decoration: none;
+}
+
+body, #bodyTable, #bodyCell {
+    height: 100% !important;
+    margin: 0;
+    padding: 0;
+    width: 100% !important;
+}
+
+#outlook a {
+    padding: 0;
+}
+
+img {
+    -ms-interpolation-mode: bicubic;
+}
+
+table {
+    mso-table-lspace: 0pt;
+    mso-table-rspace: 0pt;
+}
+
+.ReadMsgBody {
+    width: 100%;
+}
+
+.ExternalClass {
+    width: 100%;
+}
+
+p, a, li, td, blockquote {
+    mso-line-height-rule: exactly;
+}
+
+a[href^=tel], a[href^=sms] {
+    color: #0c5da9;
+    cursor: default;
+    text-decoration: none;
+}
+
+p, a, li, td, body, table, blockquote {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+.ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .ExternalClass span, .ExternalClass font {
+    line-height: 100%;
+}
+
+#bodyCell {
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+
+.templateContainer {
+    max-width: 600px;
+    border: none;
+}
+
+.threeColumnsContainer {
+    max-width: 190px;
+}
+
+.lowerColumnContainer {
+    max-width: 298px;
+}
+
+a.mcnButton {
+    display: block;
+}
+
+.mcnImage {
+    vertical-align: bottom;
+}
+
+.mcnTextContent img {
+    height: auto !important;
+}
+
+/*
+@tab Page
+@section background style
+@tip Set the background color and top border for your email. You may want to choose colors that match your company's branding.
+*/
+body, #bodyTable {
+    background-color: #f2f2f2;
+}
+
+/*
+@tab Page
+@section background style
+@tip Set the background color and top border for your email. You may want to choose colors that match your company's branding.
+*/
+#bodyCell {
+    border:none;
+}
+
+/*
+@tab Page
+@section email border
+@tip Set the border for your email.
+*/
+.templateContainer {
+    border: none;
+}
+
+/*
+@tab Page
+@section heading 1
+@tip Set the styling for all first-level headings in your emails. These should be the largest of your headings.
+@style heading 1
+*/
+h1 {
+    color: #0046ad !important;
+    font-family: Arial;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 125%;
+    letter-spacing: -1px;
+    text-align: left;
+}
+
+/*
+@tab Page
+@section heading 2
+@tip Set the styling for all second-level headings in your emails.
+@style heading 2
+*/
+h2 {
+    color: #0046ad !important;
+    font-family: Arial;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 125%;
+    letter-spacing: -.75px;
+    text-align: left;
+}
+
+/*
+@tab Page
+@section heading 3
+@tip Set the styling for all third-level headings in your emails.
+@style heading 3
+*/
+h3 {
+    color: #0046ad !important;
+    font-family: Arial;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 125%;
+    letter-spacing: -.5px;
+    text-align: left;
+}
+
+/*
+@tab Page
+@section heading 4
+@tip Set the styling for all fourth-level headings in your emails. These should be the smallest of your headings.
+@style heading 4
+*/
+h4 {
+    color: #0046ad !important;
+    font-family: Arial;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 125%;
+    letter-spacing: normal;
+    text-align: left;
+}
+
+/*
+@tab Preheader
+@section preheader style
+@tip Set the background color and borders for your email's preheader area.
+*/
+#templatePreheader {
+    background-color: #FFFFFF;
+    border-top: 0;
+    border-bottom: 0;
+}
+
+/*
+@tab Preheader
+@section preheader text
+@tip Set the styling for your email's preheader text. Choose a size and color that is easy to read.
+*/
+.preheaderContainer .mcnTextContent, .preheaderContainer .mcnTextContent p {
+    color: #333333;
+    font-family: Arial;
+    font-size: 11px;
+    line-height: 125%;
+    text-align: left;
+}
+
+/*
+@tab Preheader
+@section preheader link
+@tip Set the styling for your email's preheader links. Choose a color that helps them stand out from your text.
+*/
+.preheaderContainer .mcnTextContent a {
+    color: #0c5da9;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+/*
+@tab Header
+@section header style
+@tip Set the background color and borders for your email's header area.
+*/
+#templateHeader {
+    background-color: #FFFFFF;
+    border-top: 0;
+    border-bottom: 0;
+}
+
+/*
+@tab Header
+@section header text
+@tip Set the styling for your email's header text. Choose a size and color that is easy to read.
+*/
+.headerContainer .mcnTextContent, .headerContainer .mcnTextContent p {
+    color: #333333;
+    font-family: Arial;
+    font-size: 15px;
+    line-height: 150%;
+    text-align: left;
+}
+
+/*
+@tab Header
+@section header link
+@tip Set the styling for your email's header links. Choose a color that helps them stand out from your text.
+*/
+.headerContainer .mcnTextContent a {
+    color: #0c5da9;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+/*
+@tab Body
+@section body style
+@tip Set the background color and borders for your email's body area.
+*/
+#templateBody {
+    background-color: #FFFFFF;
+    border-top: 0;
+    border-bottom: 0;
+}
+
+/*
+@tab Body
+@section body text
+@tip Set the styling for your email's body text. Choose a size and color that is easy to read.
+*/
+.bodyContainer .mcnTextContent, .bodyContainer .mcnTextContent p {
+    color: #333333;
+    font-family: Arial;
+    font-size: 15px;
+    line-height: 150%;
+    text-align: left;
+}
+
+/*
+@tab Body
+@section body link
+@tip Set the styling for your email's body links. Choose a color that helps them stand out from your text.
+*/
+.bodyContainer .mcnTextContent a {
+    color: #0c5da9;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+/*
+@tab Upper Columns
+@section upper columns style
+@tip Set the background color and borders for your email's columns.
+*/
+#threeColumns, #twoColumns {
+    background-color: #FFFFFF;
+    border-top: 0;
+    border-bottom: 0;
+}
+
+/*
+@tab Upper Columns
+@section upper left column style
+@tip Set the styling for your email's left column text. Choose a size and color that is easy to read.
+*/
+.upperLeftColumnContainer .mcnTextContent, .upperLeftColumnContainer .mcnTextContent p {
+    color: #333333;
+    font-family: Arial;
+    font-size: 15px;
+    line-height: 150%;
+    text-align: left;
+}
+
+/*
+@tab Upper Columns
+@section upper left column link
+@tip Set the styling for your email's left column links. Choose a color that helps them stand out from your text.
+*/
+.upperLeftColumnContainer .mcnTextContent a, .upperLeftColumnContainer .mcnTextContent p a {
+    color: #0c5da9;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+/*
+@tab Upper Columns
+@section upper center column style
+@tip Set the styling for your email's center column text. Choose a size and color that is easy to read.
+*/
+.upperCenterColumnContainer .mcnTextContent, .upperCenterColumnContainer .mcnTextContent p {
+    color: #333333;
+    font-family: Arial;
+    font-size: 15px;
+    line-height: 150%;
+    text-align: left;
+}
+
+/*
+@tab Upper Columns
+@section upper center column link
+@tip Set the styling for your email's center column links. Choose a color that helps them stand out from your text.
+*/
+.upperCenterColumnContainer .mcnTextContent a, .upperCenterColumnContainer .mcnTextContent p a {
+    color: #0c5da9;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+/*
+@tab Upper Columns
+@section upper right column style
+@tip Set the styling for your email's right column text. Choose a size and color that is easy to read.
+*/
+.upperRightColumnContainer .mcnTextContent, .upperRightColumnContainer .mcnTextContent p {
+    color: #333333;
+    font-family: Arial;
+    font-size: 15px;
+    line-height: 150%;
+    text-align: left;
+}
+
+/*
+@tab Upper Columns
+@section upper right column link
+@tip Set the styling for your email's right column links. Choose a color that helps them stand out from your text.
+*/
+.upperRightColumnContainer .mcnTextContent a, .upperRightColumnContainer .mcnTextContent p a {
+    color: #6DC6DD;
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+/*
+@tab Lower Columns
+@section lower columns style
+@tip Set the background color and borders for your email's columns.
+*/
+#twoColumns {
+    background-color: #FFFFFF;
+    border-top: 0;
+    border-bottom: 0;
+}
+
+/*
+@tab Lower Columns
+@section lower left column style
+@tip Set the styling for your email's left column text. Choose a size and color that is easy to read.
+*/
+.lowerLeftColumnContainer .mcnTextContent, .lowerLeftColumnContainer .mcnTextContent p {
+    color: #333333;
+    font-family: Arial;
+    font-size: 15px;
+    line-height: 150%;
+    text-align: left;
+}
+
+/*
+@tab Lower Columns
+@section lower left column link
+@tip Set the styling for your email's left column links. Choose a color that helps them stand out from your text.
+*/
+.lowerLeftColumnContainer .mcnTextContent a, .lowerLeftColumnContainer .mcnTextContent p a {
+    color: #0c5da9;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+/*
+@tab Lower Columns
+@section lower right column style
+@tip Set the styling for your email's right column text. Choose a size and color that is easy to read.
+*/
+.lowerRightColumnContainer .mcnTextContent, .lowerRightColumnContainer .mcnTextContent p {
+    color: #333333;
+    font-family: Arial;
+    font-size: 15px;
+    line-height: 150%;
+    text-align: left;
+}
+
+/*
+@tab Lower Columns
+@section lower right column link
+@tip Set the styling for your email's right column links. Choose a color that helps them stand out from your text.
+*/
+.lowerRightColumnContainer .mcnTextContent a, .lowerRightColumnContainer .mcnTextContent p a {
+    color: #0c5da9;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+/*
+@tab Footer
+@section footer style
+@tip Set the background color and borders for your email's footer area.
+*/
+#templateFooter {
+    background-color: #FFFFFF;
+    border-top: 0;
+    border-bottom: 0;
+}
+
+/*
+@tab Footer
+@section footer text
+@tip Set the styling for your email's footer text. Choose a size and color that is easy to read.
+*/
+.footerContainer .mcnTextContent, .footerContainer .mcnTextContent p {
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 11px;
+    line-height: 125%;
+    text-align: center;
+}
+
+/*
+@tab Footer
+@section footer link
+@tip Set the styling for your email's footer links. Choose a color that helps them stand out from your text.
+*/
+.footerContainer .mcnTextContent a, .footerContainer .mcnTextContent p a {
+    color: #ffffff;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+@media screen and (min-width: 768px) {
+    .templateContainer {
+        width: 600px !important;
+    }
+
+    .threeColumnsContainer {
+        width: 190px;
+    }
+
+    .lowerColumnContainer {
+        width: 291px;
+    }
+
+}
+
+@media only screen and (max-width: 480px) {
+    body {
+        width: 100% !important;
+        min-width: 100% !important;
+    }
+
+    td#bodyCell {
+        padding-top: 10px !important;
+        padding-left: 0!important;
+        padding-right: 0!important;
+    }
+
+    .threeColumnsContainer {
+        max-width: 100% !important;
+        width: 100% !important;
+    }
+
+    .upperColumnWidth {
+        width: 100% !important;
+    }
+
+    .lowerColumnContainer {
+        max-width: 100% !important;
+        width: 100% !important;
+    }
+    img.mcnImage, table.mcnShareContent, table.mcnCaptionTopContent, table.mcnCaptionBottomContent, table.mcnTextContentContainer, table.mcnBoxedTextContentContainer, table.mcnImageGroupContentContainer, table.mcnCaptionLeftTextContentContainer, table.mcnCaptionRightTextContentContainer, table.mcnCaptionLeftImageContentContainer, table.mcnCaptionRightImageContentContainer, table.mcnImageCardLeftTextContentContainer, table.mcnImageCardRightTextContentContainer {
+        width: 100% !important;
+    }
+
+    td.mcnImageGroupContent {
+        padding: 9px !important;
+    }
+
+    table.mcnCaptionLeftContentOuter td.mcnTextContent, table.mcnCaptionRightContentOuter td.mcnTextContent {
+        padding-top: 9px !important;
+    }
+
+    td.mcnImageCardTopImageContent, td.mcnCaptionBlockInner table.mcnCaptionTopContent:last-child td.mcnTextContent {
+        padding-top: 18px !important;
+    }
+
+    td.mcnImageCardBottomImageContent {
+        padding-bottom: 9px !important;
+    }
+
+    td.mcnImageGroupBlockInner {
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
+    }
+
+    tbody.mcnImageGroupBlockOuter {
+        padding-top: 9px !important;
+        padding-bottom: 9px !important;
+    }
+
+    td.mcnTextContent, td.mcnBoxedTextContentColumn {
+        padding-right: 18px !important;
+        padding-left: 18px !important;
+    }
+
+    td.mcnTextContent.gray {
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+    }
+
+    td.mcnImageCardLeftImageContent, td.mcnImageCardRightImageContent {
+        padding-right: 18px !important;
+        padding-bottom: 0 !important;
+        padding-left: 18px !important;
+    }
+
+    td.threeColumnsContainer, td.lowerColumnContainer {
+        display: block !important;
+        max-width: 600px !important;
+        width: 100% !important;
+    }
+
+    table.mcpreview-image-uploader {
+        display: none !important;
+        width: 100% !important;
+    }
+
+    td.footerContainer a.utilityLink {
+        display: block !important;
+    }
+
+    /*
+    @tab Mobile Styles
+    @section heading 1
+    @tip Make the first-level headings larger in size for better readability on small screens.
+    */
+    h1 {
+        font-size: 24px !important;
+        line-height: 125% !important;
+    }
+
+    /*
+    @tab Mobile Styles
+    @section heading 2
+    @tip Make the second-level headings larger in size for better readability on small screens.
+    */
+    h2 {
+        font-size: 20px !important;
+        line-height: 125% !important;
+    }
+
+    /*
+    @tab Mobile Styles
+    @section heading 3
+    @tip Make the third-level headings larger in size for better readability on small screens.
+    */
+    h3 {
+        font-size: 18px !important;
+        line-height: 125% !important;
+    }
+
+    /*
+    @tab Mobile Styles
+    @section heading 4
+    @tip Make the fourth-level headings larger in size for better readability on small screens.
+    */
+    h4 {
+        font-size: 16px !important;
+        line-height: 125% !important;
+    }
+
+    /*
+    @tab Mobile Styles
+    @section Boxed Text
+    @tip Make the boxed text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+    */
+    table.mcnBoxedTextContentContainer td.mcnTextContent, td.mcnBoxedTextContentContainer td.mcnTextContent p {
+        font-size: 18px !important;
+        line-height: 125% !important;
+    }
+
+    /*
+    @tab Mobile Styles
+    @section Preheader Visibility
+    @tip Set the visibility of the email's preheader on small screens. You can hide it to save space.
+    */
+    td#templatePreheader {
+        display: block !important;
+    }
+
+    /*
+    @tab Mobile Styles
+    @section Preheader Text
+    @tip Make the preheader text larger in size for better readability on small screens.
+    */
+    td.preheaderContainer td.mcnTextContent, td.preheaderContainer td.mcnTextContent p {
+        font-size: 14px !important;
+        line-height: 115% !important;
+    }
+
+    /*
+    @tab Mobile Styles
+    @section Header Text
+    @tip Make the header text larger in size for better readability on small screens.
+    */
+    td.headerContainer td.mcnTextContent, td.headerContainer td.mcnTextContent p {
+        font-size: 18px !important;
+        line-height: 125% !important;
+    }
+
+    /*
+    @tab Mobile Styles
+    @section Body Text
+    @tip Make the body text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+    */
+    td.bodyContainer td.mcnTextContent, td.bodyContainer td.mcnTextContent p {
+        font-size: 18px !important;
+        line-height: 125% !important;
+    }
+
+    /*
+    @tab Mobile Styles
+    @section Left Three Column Text
+    @tip Make the left column text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+    */
+    td.upperLeftColumnContainer td.mcnTextContent, td.upperLeftColumnContainer td.mcnTextContent p {
+        font-size: 16px !important;
+        line-height: 125% !important;
+    }
+
+    /*
+    @tab Mobile Styles
+    @section Center Three Column Text
+    @tip Make the center column text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+    */
+    td.upperCenterColumnContainer td.mcnTextContent, td.upperCenterColumnContainer td.mcnTextContent p {
+        font-size: 16px !important;
+        line-height: 125% !important;
+    }
+
+    /*
+    @tab Mobile Styles
+    @section Right Three Column Text
+    @tip Make the right column text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+    */
+    td.upperRightColumnContainer td.mcnTextContent, td.upperRightColumnContainer td.mcnTextContent p {
+        font-size: 16px !important;
+        line-height: 125% !important;
+    }
+
+    /*
+    @tab Mobile Styles
+    @section Left Two Column Text
+    @tip Make the left column text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+    */
+    td.lowerLeftColumnContainer td.mcnTextContent, td.lowerLeftColumnContainer td.mcnTextContent p {
+        /*@tab Mobile Styles
+@section Left Two Column Text
+@tip Make the left column text larger in size for better readability on small screens. We recommend a font size of at least 16px.*/
+        font-size: 16px !important;
+        line-height: 125% !important;
+    }
+
+    /*
+    @tab Mobile Styles
+    @section Right Two Column Text
+    @tip Make the right column text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+    */
+    td.lowerRightColumnContainer td.mcnTextContent, td.lowerRightColumnContainer td.mcnTextContent p {
+        /*@tab Mobile Styles
+@section Right Two Column Text
+@tip Make the right column text larger in size for better readability on small screens. We recommend a font size of at least 16px.*/
+        font-size: 16px !important;
+        line-height: 125% !important;
+    }
+
+    /*
+    @tab Mobile Styles
+    @section footer text
+    @tip Make the body content text larger in size for better readability on small screens.
+    */
+    td.footerContainer td.mcnTextContent, td.footerContainer td.mcnTextContent p {
+        font-size: 11px !important;
+        line-height: 115% !important;
+    }
+
+}
+table.showableTable {
+    display: none;
+
+}
+
+@media only screen and (max-width: 480px) {
+    table.showableTable {
+        display: block!important;
+        font-size: 14px!important; max-height: none!important; line-height: 125%!important;
+        padding-top: 18px;
+
+
+    }
+    table.showableTable a {
+        color:#0c5da9; text-decoration: none; display:inline-block; padding: 15px 20px; border: 1px solid #0c5da9; font-weight: 200; text-align:center;
+    }
+    table.hideableTable {
+        display: none!important;
+    }
+    .mcnCaptionBlock {
+        width: 100%!important;
+    }
+    .mcnCaptionBlock .mcnTextContent {
+        padding-left: 0!important;
+        padding-right: 0!important;
+    }
+    .twocoltable .mcnBoxedTextContentColumn {
+        padding-left: 0!important;
+        padding-right: 0!important;
+    }
+    #twoColumns,#threeColumns {
+        padding-right: 18px!important;
+    }
+    .headerTitle {
+        font-size: 16px!important;
+    }
+    .lowerColumnContainer .lowerRightColumnContainer {
+        padding-bottom: 18px!important;
+    }
+    .preheaderContainer {
+        padding-left: 0!important;
+        padding-right: 0!important;
+    }
+    .footerContent td {
+        width: 100%!important;
+        display: block!important;
+        text-align: left!important;
+
+    }
+    .footerContent .mcnTextContent {
+        padding-left: 0!important;
+        padding-top: 18px;
+    }
+}
+.eor tr:nth-child(even) td {
+    background-color: #ededed;
+}
+
+.eor tr:nth-child(odd) td {
+    background-color: #ffffff;
+}
+thead.eor tr {
+    background-color: #e1eaf1;
+}
+
+.eor td, th {
+    border: 1px solid #ffffff;
+    padding: 9px
+}
+
+.eor.eor-body {
+    font-size: 13px;
+}
+
+.eor th {
+    color: #0046ad;
+    background-color: #e1eaf1;
+
+}
