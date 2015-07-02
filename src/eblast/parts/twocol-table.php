@@ -23,7 +23,7 @@
                                             <td class="mcnTextContent" valign="top" style="padding:0 0" width="273">
                                                 <!-- BEGIN COLUMN CONTENT -->
 
-                                                <table width="100%" cellpadding="5" class="hideableTable" style="font-family: Arial;">
+                                                <table width="100%" cellpadding="5" class="hideableTable" style="font-family: Arial;padding:9px;font-size: 13px;!important">
                                                     <thead class="eor"
                                                            style="background-color: #cccccc;font-size:font-size: 15px;color:white;">
                                                     <tr class="background-color: #cccccc;">

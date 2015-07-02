@@ -794,11 +794,11 @@ table.showableTable {
 
 .eor td, th {
     border: 1px solid #ffffff;
-    padding: .6em
+    padding: 9px
 }
 
 .eor.eor-body {
-    font-size: 10pt
+    font-size: 13px;
 }
 
 .eor th {
