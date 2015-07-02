@@ -745,7 +745,12 @@ table.showableTable {
     table.showableTable {
         display: block!important;
         font-size: 14px; max-height: none; line-height: 125%;
+        padding-top: 18px;
 
+
+    }
+    table.showableTable a {
+        color:#0c5da9; text-decoration: none; display:inline-block; padding: 15px 20px; border: 1px solid #0c5da9; font-weight: 200; text-align:center;
     }
     table.hideableTable {
         display: none!important;
@@ -794,6 +799,7 @@ table.showableTable {
 }
 
 .eor td, th {
+    border: 1px solid #ffffff;
     padding: 9px
 }
 

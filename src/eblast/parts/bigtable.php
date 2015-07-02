@@ -9,7 +9,7 @@
                 <tbody>
                 <tr>
                     <td valign="top" class="mcnTextContent" style="padding: 9px 0 9px 18px">
-                        <table width="100%" border="1" bordercolor="#ffffff" cellpadding="9" class="hideableTable" style="border-color: #ffffff; font-family: Arial;padding:9px;font-size: 13px;!important">
+                        <table width="100%" border="0" cellpadding="9" class="hideableTable" style="border-color: #ffffff; font-family: Arial;padding:9px;font-size: 13px;!important">
                             <thead class="eor">
                             <tr style="background-color: #cccccc;color:white;">
                                 <th>XYZ</th>
@@ -81,9 +81,9 @@
                         <table width="100%" style="font-size: 0; max-height: 0; line-height: 0; display: none;" class="showableTable">
                             <tbody>
                             <tr>
-                                <td style="padding-top: 18px">
-                                    <a style="color:#0c5da9; text-decoration: none; display:inline-block; padding: 15px 20px; border: 1px solid #0c5da9; font-weight: 200; text-align:center;"
-                                       href="#">Click Here To Read The Stats</a></td>
+                                <td style="">
+                                    <a style="" href="#">Click Here To Read The Stats</a>
+                                </td>
                             </tr>
                             </tbody>
                         </table>
