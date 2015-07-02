@@ -1,12 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<?php
-$width = 980;
-
-?>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <!-- NAME: 1:3:2 COLUMN -->
     <meta name="viewport" content="width=device-width">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -75,7 +70,7 @@ $width = 980;
 
                                 </tr>
                                 <tr>
-                                    <td align="center" valign="top" id="templateLowerColumns">
+                                    <td align="center" valign="top" id="twoColumns">
                                         <!-- BEGIN 2 COLUMNS // -->
                                         <?php include("parts/twocol/wrapper.php"); ?>
                                         <!-- // END 2 COLUMNS -->

@@ -1,4 +1,4 @@
-<td align="center" valign="top" id="templateUpperColumns">
+<td align="center" valign="top" id="threeColumnsGray">
     <table align="center" border="0" cellpadding="0" cellspacing="0"  width="100%">
         <tr>
             <td align="center" style="text-align:center; display:inline-block; padding:0 9px 0 9px" valign="top">
