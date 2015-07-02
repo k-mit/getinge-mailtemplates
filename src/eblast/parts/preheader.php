@@ -24,17 +24,16 @@
         </td>
     </tr>
     <tr>
-        <td valign="top" class="">
+        <td valign="top" style="padding-bottom: 18px;">
             <table border="0" cellpadding="0" cellspacing="0" width="100%"
                    class="mcnTextBlock">
                 <tbody class="mcnTextBlockOuter">
                 <tr>
 
-                    <td valign="top" class="mcnTextContent"
-                        style="padding: 0 18px 18px 18px">
+                    <td valign="middle" class="mcnTextContent"
+                        style="padding: 0 18px; height: 68px; border-top: 1px solid #d1d1d1; border-bottom: 1px dashed #d1d1d1">
 
-                        <table height="64" width="100%"
-                               style="height: 64px; border-top: 1px solid #d1d1d1; border-bottom: 1px dashed #d1d1d1">
+                        <table height="32" width="100%">
 
                             <tbody>
                             <tr>
