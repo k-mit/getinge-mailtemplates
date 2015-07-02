@@ -76,7 +76,14 @@
                                         <!-- // END 2 COLUMNS -->
                                     </td>
                                 </tr>
-                                <tr>
+								<tr>
+									<td align="center" valign="top" id="twoColumns">
+										<!-- BEGIN 2 COLUMNS-GREY // -->
+										<?php include("parts/twocol-gray/wrapper.php"); ?>
+										<!-- // END 2 COLUMNS-GREY -->
+									</td>
+								</tr>
+								<tr>
                                     <td align="center" valign="top" id="templateFooter">
                                         <!-- BEGIN FOOTER // -->
                                         <?php include("parts/footer.php"); ?>
