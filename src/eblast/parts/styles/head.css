@@ -744,7 +744,7 @@ table.showableTable {
 @media only screen and (max-width: 480px) {
     table.showableTable {
         display: block!important;
-        font-size: 14px; max-height: none; line-height: 125%;
+        font-size: 14px!important; max-height: none!important; line-height: 125%!important;
         padding-top: 18px;
 
 
