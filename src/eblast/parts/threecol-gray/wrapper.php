@@ -8,17 +8,17 @@
                     <tr>
                         <td align="left" valign="top" style="width:200px;" width="194">
                 <![endif]-->
-                <?php include("column33.php"); ?>
+                <?php $tc3 = 1; include("column33.php"); ?>
                 <!--[if gte mso 9]>
                 </td>
-                <td align="left" valign="top" style="width:200px;" width="194">
+                <td align="center" valign="top" style="width:200px;" width="194">
                 <![endif]-->
-                <?php include("column33.php"); ?>
+                <?php $tc3 = 2; include("column33.php"); ?>
                 <!--[if gte mso 9]>
                 </td>
-                <td align="left" valign="top" style="width:200px;" width="194">
+                <td align="right" valign="top" style="width:200px;" width="194">
                 <![endif]-->
-                <?php include("column33.php"); ?>
+                <?php $tc3 = 3; include("column33.php"); ?>
                 <!--[if gte mso 9]>
                 </td>
                 </tr>

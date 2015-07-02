@@ -1,14 +1,14 @@
-<div style="display:inline-block; vertical-align:top; width:190px;" class="upperColumnWidth">
-    <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%" class="threeColumnsContainer">
+<div style="display:inline-block; vertical-align:top; width:191px;" class="upperColumnWidth">
+    <table align="<?=$tc3==1?"left":$tc3==2?"center":"right"?>" border="0" cellpadding="0" cellspacing="0" width="100%" class="threeColumnsContainer">
         <tr>
-            <td valign="top" class="upperLeftColumnContainer" style="padding: 9px;">
+            <td valign="top" class="upper<?=$tc3==1?"Left":$tc3==2?"Center":"Right"?>ColumnContainer" style="padding: 9px;">
                 <table  border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnCaptionBlock">
                     <tbody class="mcnCaptionBlockOuter">
                     <tr>
                         <td class="mcnCaptionBlockInner" valign="top" style="padding:0px;">
 
 
-                            <table align="left" border="0" cellpadding="0" cellspacing="0"
+                            <table align="<?=$tc3==1?"left":$tc3==2?"center":"right"?>" border="0" cellpadding="0" cellspacing="0"
                                    class="mcnCaptionBottomContent" width="false">
                                 <tbody>
                                 <tr>
