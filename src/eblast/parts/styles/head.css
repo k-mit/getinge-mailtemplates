@@ -731,7 +731,7 @@ h4 {
     @tip Make the body content text larger in size for better readability on small screens.
     */
     td.footerContainer td.mcnTextContent, td.footerContainer td.mcnTextContent p {
-        font-size: 14px !important;
+        font-size: 11px !important;
         line-height: 115% !important;
     }
 
