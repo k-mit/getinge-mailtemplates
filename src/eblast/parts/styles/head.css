@@ -83,7 +83,7 @@ p, a, li, td, body, table, blockquote {
 }
 
 .threeColumnsContainer {
-    max-width: 197px;
+    max-width: 191px;
 }
 
 .lowerColumnContainer {
@@ -136,9 +136,9 @@ body, #bodyTable {
 @style heading 1
 */
 h1 {
-    color: #606060 !important;
+    color: #010000 !important;
     font-family: Arial;
-    font-size: 40px;
+    font-size: 28px;
     font-style: normal;
     font-weight: bold;
     line-height: 125%;
@@ -155,7 +155,7 @@ h1 {
 h2 {
     color: #404040 !important;
     font-family: Arial;
-    font-size: 26px;
+    font-size: 22px;
     font-style: normal;
     font-weight: bold;
     line-height: 125%;
@@ -170,7 +170,7 @@ h2 {
 @style heading 3
 */
 h3 {
-    color: #606060 !important;
+    color: #333333 !important;
     font-family: Arial;
     font-size: 18px;
     font-style: normal;
@@ -214,7 +214,7 @@ h4 {
 @tip Set the styling for your email's preheader text. Choose a size and color that is easy to read.
 */
 .preheaderContainer .mcnTextContent, .preheaderContainer .mcnTextContent p {
-    color: #606060;
+    color: #333333;
     font-family: Arial;
     font-size: 11px;
     line-height: 125%;
@@ -249,7 +249,7 @@ h4 {
 @tip Set the styling for your email's header text. Choose a size and color that is easy to read.
 */
 .headerContainer .mcnTextContent, .headerContainer .mcnTextContent p {
-    color: #606060;
+    color: #333333;
     font-family: Arial;
     font-size: 15px;
     line-height: 150%;
@@ -284,7 +284,7 @@ h4 {
 @tip Set the styling for your email's body text. Choose a size and color that is easy to read.
 */
 .bodyContainer .mcnTextContent, .bodyContainer .mcnTextContent p {
-    color: #606060;
+    color: #333333;
     font-family: Arial;
     font-size: 15px;
     line-height: 150%;
@@ -319,7 +319,7 @@ h4 {
 @tip Set the styling for your email's left column text. Choose a size and color that is easy to read.
 */
 .upperLeftColumnContainer .mcnTextContent, .upperLeftColumnContainer .mcnTextContent p {
-    color: #606060;
+    color: #333333;
     font-family: Arial;
     font-size: 15px;
     line-height: 150%;
@@ -343,7 +343,7 @@ h4 {
 @tip Set the styling for your email's center column text. Choose a size and color that is easy to read.
 */
 .upperCenterColumnContainer .mcnTextContent, .upperCenterColumnContainer .mcnTextContent p {
-    color: #606060;
+    color: #333333;
     font-family: Arial;
     font-size: 15px;
     line-height: 150%;
@@ -367,7 +367,7 @@ h4 {
 @tip Set the styling for your email's right column text. Choose a size and color that is easy to read.
 */
 .upperRightColumnContainer .mcnTextContent, .upperRightColumnContainer .mcnTextContent p {
-    color: #606060;
+    color: #333333;
     font-family: Arial;
     font-size: 15px;
     line-height: 150%;
@@ -402,7 +402,7 @@ h4 {
 @tip Set the styling for your email's left column text. Choose a size and color that is easy to read.
 */
 .lowerLeftColumnContainer .mcnTextContent, .lowerLeftColumnContainer .mcnTextContent p {
-    color: #606060;
+    color: #333333;
     font-family: Arial;
     font-size: 15px;
     line-height: 150%;
@@ -426,7 +426,7 @@ h4 {
 @tip Set the styling for your email's right column text. Choose a size and color that is easy to read.
 */
 .lowerRightColumnContainer .mcnTextContent, .lowerRightColumnContainer .mcnTextContent p {
-    color: #606060;
+    color: #333333;
     font-family: Arial;
     font-size: 15px;
     line-height: 150%;
@@ -461,7 +461,7 @@ h4 {
 @tip Set the styling for your email's footer text. Choose a size and color that is easy to read.
 */
 .footerContainer .mcnTextContent, .footerContainer .mcnTextContent p {
-    color: #606060;
+    color: #333333;
     font-family: Arial;
     font-size: 11px;
     line-height: 125%;
@@ -488,14 +488,14 @@ h4 {
 
 @media screen and (min-width: 768px) {
     .threeColumnsContainer {
-        width: 197px;
+        width: 191px;
     }
 
 }
 
 @media screen and (min-width: 768px) {
     .lowerColumnContainer {
-        width: 298px;
+        width: 291px;
     }
 
 }
@@ -511,6 +511,8 @@ h4 {
 @media only screen and (max-width: 480px) {
     td#bodyCell {
         padding-top: 10px !important;
+        padding-left: 0!important;
+        padding-right: 0!important;
     }
 
 }
@@ -834,6 +836,11 @@ h4 {
     }
 
 }
+table.showableTable {
+    display: none;
+
+}
+
 @media only screen and (max-width: 480px) {
     table.showableTable {
         display: block!important;
@@ -842,4 +849,50 @@ h4 {
     table.hideableTable {
         display: none!important;
     }
+    .mcnCaptionBlock {
+        width: 100%!important;
+    }
+    .mcnCaptionBlock .mcnTextContent {
+        padding-left: 0!important;
+        padding-right: 0!important;
+    }
+    .twocoltable .mcnBoxedTextContentColumn {
+        padding-left: 0!important;
+        padding-right: 0!important;
+    }
+    #templateLowerColumns,#templateUpperColumns {
+        padding-right: 18px!important;
+    }
+    .headerTitle {
+        font-size: 16px!important;
+    }
+    .lowerColumnContainer .lowerRightColumnContainer {
+        padding-bottom: 18px!important;
+    }
+    .preheaderContainer {
+        padding-left: 0!important;
+        padding-right: 0!important;
+    }
+}
+.eor tr:nth-child(even) td {
+    background-color: #ededed;
+}
+
+.eor tr:nth-child(odd) td {
+    background-color: #ffffff;
+}
+
+.eor td, th {
+    border: 1px solid #ffffff;
+    padding: .6em
+}
+
+.eor.eor-body {
+    font-size: 10pt
+}
+
+.eor th {
+    color: #ffffff;
+    background-color: #cccccc;
+
 }

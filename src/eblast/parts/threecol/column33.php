@@ -1,11 +1,11 @@
-<div style="display:inline-block; vertical-align:top; width:197px;" class="upperColumnWidth">
+<div style="display:inline-block; vertical-align:top; width:191px;" class="upperColumnWidth">
     <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%" class="threeColumnsContainer">
         <tr>
             <td valign="top" class="upperLeftColumnContainer">
                 <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnCaptionBlock">
                     <tbody class="mcnCaptionBlockOuter">
                     <tr>
-                        <td class="mcnCaptionBlockInner" valign="top" style="padding:9px;">
+                        <td class="mcnCaptionBlockInner" valign="top" style="padding:9px 0;">
 
 
                             <table align="left" border="0" cellpadding="0" cellspacing="0"
@@ -13,26 +13,26 @@
                                 <tbody>
                                 <tr>
                                     <td class="mcnCaptionBottomImageContent" align="left" valign="top"
-                                        style="padding:0 9px 9px 9px;">
+                                        style="padding:0 0 9px 0;">
 
 
                                         <img alt=""
-                                             src="https://gallery.mailchimp.com/6aaf14738b3973934309cb78e/images/1dcd2955-5b2c-49ce-9faf-260746ae64d8.png"
-                                             width="161" style="max-width:300px;" class="mcnImage">
+                                             src="https://k-mit.se/dev/getinge/mail/strat.jpg"
+                                             width="176" style="max-width:480px;" class="mcnImage">
 
 
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="mcnTextContent" valign="top" style="padding:0 9px 0 9px;" width="161">
-                                        <h2 class="null">Lorem ipsum dolor sit amet, ferri consul laudem.</h2>
+                                    <td class="mcnTextContent" valign="top" style="padding:0;" width="176">
+                                        <h2 >Lorem ipsum dolor sit amet, ferri consul laudem.</h2>
 
-                                        <h4 class="null">2015.06.02 | Exhibition</h4>
+                                        <span style="color:#2ab2e5; font-size:12px; display: block; padding-top: 9px">2015.06.02 | Exhibition</span>
                                         Experience how INSIGHT can improve workflow efficiency and the quality of
                                         patient care at your hospital. Come to booth no. S2G30 to learn more and
                                         exchange ideas at our bistro while you enjoy coffees and snacks.<br>
                                         <br>
-                                        Read more
+                                        <a href="http://getingegroup.com" target="_blank">Read more&nbsp;&rarr;</a>
                                     </td>
                                 </tr>
                                 </tbody>

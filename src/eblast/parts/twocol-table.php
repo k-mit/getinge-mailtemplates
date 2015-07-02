@@ -1,5 +1,5 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%"
-       class="mcnBoxedTextBlock">
+       class="mcnBoxedTextBlock twocoltable">
     <tbody class="mcnBoxedTextBlockOuter">
     <tr>
         <td valign="top" class="mcnBoxedTextBlockInner">
@@ -11,39 +11,14 @@
                     <td class="mcnBoxedTextContentColumn"
                         style="padding-top:9px; padding-left:0; padding-bottom:9px; padding-right:0;">
                         <table border="0" cellpadding="18" cellspacing="0"
-                               class="mcnTextContentContainer" width="100%"
-                               style="border: 1px none #999999;background-color: #FFFFFF;">
+                               class="mcnTextContentContainer" width="100%">
                             <tbody>
                             <tr>
                                 <td valign="top" class="mcnTextContent">
-                                    <style
-                                        type="text/css">.eor tr:nth-child(even) td {
-                                            background-color: #ededed;
-                                        }
-
-                                        .eor tr:nth-child(odd) td {
-                                            background-color: #ffffff;
-                                        }
-
-                                        .eor td, th {
-                                            border: 1px solid #ffffff;
-                                            padding: .6em
-                                        }
-
-                                        .eor.eor-body {
-                                            font-size: 10pt
-                                        }
-
-                                        .eor th {
-                                            color: #ffffff;
-                                            background-color: #cccccc;
-
-                                        }
-                                    </style>
-                                    <table width="100%">
+                                    <table width="100%" class="hideableTable">
                                         <thead class="eor">
                                         <tr>
-                                            <th style="width:13em;">XYZ</th>
+                                            <th>XYZ</th>
                                             <th>ABC</th>
                                             <th>DEF</th>
                                         </tr>
@@ -78,6 +53,15 @@
                                             <td>No of production facilities</td>
                                             <td>22.5%</td>
                                             <td>22.5%</td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                    <table width="100%" style="display:none" class="showableTable">
+                                        <tbody>
+                                        <tr>
+                                            <td>
+                                                <a style="display:inline-block; padding: 15px 20px; border: 1px solid #005baa; font-weight: 100; text-align:center;"
+                                                   href="#">Click Here To Read The Stats</a></td>
                                         </tr>
                                         </tbody>
                                     </table>

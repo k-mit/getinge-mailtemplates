@@ -1,18 +1,36 @@
-<table style="background-color:#0046ad;max-width:980px; padding-bottom: 0;color:#ffffff;font-size:6pt;font-weight:100;width:100%;" width="100%">
+<table width="100%">
     <tbody>
     <tr>
-        <td colspan="3">
-            <hr style="margin:10px;"></td>
-    </tr>
-    <tr>
-        <td style="padding-left:10px;padding-top:10px;padding-bottom:10px;width:110px" width="110"><img src="https://gallery.mailchimp.com/6aaf14738b3973934309cb78e/images/19db554b-a72a-4a1c-8236-f7cfdefffce1.gif" width="100"></td>
-        <td width="210">&nbsp;</td>
-        <td align="left">Contact us About MAQUET Privacy Policy Terms of Use<br>
-            © 2014 MAQUET Holding B.V. &amp; Co. KG. All rights reserve</td>
-    </tr>
-    <tr>
-        <td colspan="3">
-            <hr style="margin:10px;border-style: none none dashed;"></td>
+        <td style="background-color:#0046ad; padding: 18px;color:#ffffff;font-size:11px;font-weight:100;width:100%;" width="100%">
+            <table width="100%" style="width: 100%; border-top: 1px solid white; border-bottom: 1px dashed white;">
+                <tr>
+                    <td width="100%" style="width: 100%; padding: 18px 0">
+                        <table width="100%"  height="38"  border="0" cellspacing="0" cellpadding="0" style="">
+                            <tr>
+                                <td>
+                                    <img
+                                        src="https://k-mit.se/dev/getinge/mail/MAQUET-logo-gg_white1.gif"
+                                        width="100">
+
+                                </td>
+                                <td align="right" valign="middle">
+                                    <table>
+                                        <tr>
+                                            <td style="font-family: Arial; line-height: 170%">
+                                                <a style="color: #fff; text-decoration: none" href="http://maquet.com">Contact us</a>&nbsp;&nbsp;&nbsp;<a style="color: #fff; text-decoration: none" href="http://maquet.com">About MAQUET</a>&nbsp;&nbsp;&nbsp;<a style="color: #fff ; text-decoration: none" href="http://maquet.com">Privacy Policy</a>&nbsp;&nbsp;&nbsp;<a style="color: #fff; text-decoration: none" href="http://maquet.com">Terms of Use</a><br>
+                                                © 2015 MAQUET Holding B.V. &amp; Co. KG. All rights reserved
+                                            </td>
+                                        </tr>
+                                    </table>
+
+                                </td>
+                            </tr>
+                        </table>
+
+                    </td>
+                </tr>
+            </table>
+        </td>
     </tr>
     </tbody>
 </table>
