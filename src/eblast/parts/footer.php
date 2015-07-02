@@ -9,6 +9,7 @@
                             <tr>
                                 <td>
                                     <img
+                                        alt="Download Images"
                                         src="https://k-mit.se/dev/getinge/mail/MAQUET-logo-gg_white1.gif"
                                         width="100" height="38">
 

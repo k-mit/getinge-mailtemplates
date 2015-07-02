@@ -37,11 +37,11 @@
 
                             <tbody>
                             <tr>
-                                <td valign="center"><img align="none"
+                                <td valign="middle"><img alt="Download Images"
                                                          src="https://k-mit.se/dev/getinge/mail/maquet-logo.png"
                                                          style="width: 95px; height: 32px; margin: 0px;"
                                                          width="95" height="32"></td>
-                                <td valign="center" align="right" class="headerTitle"
+                                <td valign="middle" align="right" class="headerTitle"
                                     style="text-align: right; font-family:arial,helvetica neue,helvetica,sans-serif;font-size:22px;line-height: 125%; color:#999999;">
                                     We Welcome you to Arab Health 2015
                                 </td>
