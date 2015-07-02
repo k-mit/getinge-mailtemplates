@@ -17,7 +17,7 @@
                                     <table>
                                         <tr>
                                             <td class="mcnTextContent" style="font-family: Arial; line-height: 170%; color: #ffffff!important; ">
-                                                <a style="color: #fff; text-decoration: none" href="http://maquet.com">Contact us</a>&nbsp;&nbsp;&nbsp;<a style="color: #fff; text-decoration: none" href="http://maquet.com">About MAQUET</a>&nbsp;&nbsp;&nbsp;<a style="color: #fff ; text-decoration: none" href="http://maquet.com">Privacy Policy</a>&nbsp;&nbsp;&nbsp;<a style="color: #fff; text-decoration: none" href="http://maquet.com">Terms of Use</a><br>
+                                                <a style="color: #ffffff; text-decoration: none" href="http://maquet.com">Contact us</a>&nbsp;&nbsp;&nbsp;<a style="color: #ffffff; text-decoration: none" href="http://maquet.com">About MAQUET</a>&nbsp;&nbsp;&nbsp;<a style="color: #ffffff; text-decoration: none" href="http://maquet.com">Privacy Policy</a>&nbsp;&nbsp;&nbsp;<a style="color: #ffffff; text-decoration: none" href="http://maquet.com">Terms of Use</a><br>
                                                 <span style="color:#ffffff;">&copy; 2015 MAQUET Holding B.V. &amp; Co. KG. All rights reserved</span>
                                             </td>
                                         </tr>

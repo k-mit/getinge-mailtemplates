@@ -6,17 +6,17 @@
                 <!--[if gte mso 9]>
                 <table align="left" border="0" cellspacing="0" cellpadding="0" style="width:582px;" width="582">
                     <tr>
-                        <td align="left" valign="top" style="width:191px;" width="191">
+                        <td align="left" valign="top" style="width:190px;" width="190">
                 <![endif]-->
                 <?php include("column33.php"); ?>
                 <!--[if gte mso 9]>
                 </td>
-                <td align="left" valign="top" style="width:191px;" width="191">
+                <td align="center" valign="top" style="width:190px;" width="190">
                 <![endif]-->
                 <?php include("column33.php"); ?>
                 <!--[if gte mso 9]>
                 </td>
-                <td align="left" valign="top" style="width:191px;" width="191">
+                <td align="right" valign="top" style="width:190px;" width="190">
                 <![endif]-->
                 <?php include("column33.php"); ?>
                 <!--[if gte mso 9]>

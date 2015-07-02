@@ -1,4 +1,4 @@
-<div style="display:inline-block; vertical-align:top; width:191px;" class="upperColumnWidth">
+<div style="display:inline-block; vertical-align:top; width:190px;" class="upperColumnWidth">
     <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%" class="threeColumnsContainer">
         <tr>
             <td valign="top" class="upperLeftColumnContainer">

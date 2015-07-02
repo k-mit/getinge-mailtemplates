@@ -9,7 +9,7 @@
                 <tbody>
                 <tr>
                     <td valign="top" class="mcnTextContent" style="padding: 9px 0 9px 18px">
-                        <table width="100%" cellpadding="9" class="hideableTable" style="font-family: Arial;padding:9px;font-size: 13px;!important">
+                        <table width="100%" border="1" bordercolor="#ffffff" cellpadding="9" class="hideableTable" style="border-color: #ffffff; font-family: Arial;padding:9px;font-size: 13px;!important">
                             <thead class="eor">
                             <tr style="background-color: #cccccc;color:white;">
                                 <th>XYZ</th>
@@ -22,7 +22,7 @@
                             </tr>
                             </thead>
                             <tbody class="eor eor-body">
-                            <tr style="background-color: #ffffff;color:#000;">
+                            <tr style="background-color: #ffffff;color:#000000;">
                                 <td>No of emplyees</td>
                                 <td>13089</td>
                                 <td>13089</td>
@@ -31,7 +31,7 @@
                                 <td>13089</td>
                                 <td>13089</td>
                             </tr>
-                            <tr style="background-color: #ededed;color:#000;">
+                            <tr style="background-color: #ededed;color:#000000;">
                                 <td>No of sales companies</td>
                                 <td>2945</td>
                                 <td>2945</td>
@@ -40,7 +40,7 @@
                                 <td>2945</td>
                                 <td>2945</td>
                             </tr>
-                            <tr style="background-color: #ffffff;color:#000;">
+                            <tr style="background-color: #ffffff;color:#000000;">
                                 <td>No of production facilities</td>
                                 <td>22.5%</td>
                                 <td>22.5%</td>
@@ -49,7 +49,7 @@
                                 <td>22.5%</td>
                                 <td>22.5%</td>
                             </tr>
-                            <tr style="background-color: #ededed;color:#000;">
+                            <tr style="background-color: #ededed;color:#000000;">
                                 <td>No of emplyees</td>
                                 <td>13089</td>
                                 <td>13089</td>
@@ -58,7 +58,7 @@
                                 <td>13089</td>
                                 <td>13089</td>
                             </tr>
-                            <tr class="background-color: #ffffff;color:#000;">
+                            <tr class="background-color: #ffffff;color:#000000;">
                                 <td>No of sales companies</td>
                                 <td>2945</td>
                                 <td>2945</td>
@@ -67,7 +67,7 @@
                                 <td>2945</td>
                                 <td>2945</td>
                             </tr>
-                            <tr style="background-color: #ededed;color:#000;">
+                            <tr style="background-color: #ededed;color:#000000;">
                                 <td>No of production facilities</td>
                                 <td>22.5%</td>
                                 <td>22.5%</td>
