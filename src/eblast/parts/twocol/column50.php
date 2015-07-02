@@ -1,6 +1,6 @@
-<table align="left" border="0" cellpadding="0" cellspacing="0" width="290" style="width: 290px" class="lowerColumnContainer">
+<table align="left" border="0" cellpadding="0" cellspacing="0" width="291" style="width: 291px" class="lowerColumnContainer">
     <tr>
-        <td valign="top" class="lowerRightColumnContainer"><table border="0" cellpadding="0" cellspacing="0" style="width: 290px"  width="290" class="mcnCaptionBlock">
+        <td valign="top" class="lowerRightColumnContainer"><table border="0" cellpadding="0" cellspacing="0" style="width: 291px"  width="291" class="mcnCaptionBlock">
                 <tbody class="mcnCaptionBlockOuter">
                 <tr>
                     <td class="mcnCaptionBlockInner" valign="top" style="padding:0 0 0">
@@ -12,13 +12,13 @@
 
 
 
-                                    <img alt="" src="https://k-mit.se/dev/getinge/mail/2part-img<?=$tccnt?>.png" width="271" style="max-width:460px;" class="mcnImage">
+                                    <img alt="" src="https://k-mit.se/dev/getinge/mail/2part-img<?=$tccnt?>.png" width="273" style="max-width:460px;" class="mcnImage">
 
 
                                 </td>
                             </tr>
                             <tr>
-                                <td class="mcnTextContent" valign="top" style="padding:0 0" width="271">
+                                <td class="mcnTextContent" valign="top" style="padding:0 0" width="273">
                                     <h2>Lorem ipsum dolor sit amet, ferri consul laudem.</h2>
 
                                     <span style="color:#2ab2e5; font-size:12px; display: block; padding-top: 9px">2015.06.02 | Exhibition</span>
