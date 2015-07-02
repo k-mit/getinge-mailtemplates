@@ -20,7 +20,7 @@
                                            class="mcnCaptionBottomContent" width="false">
                                         <tbody>
                                         <tr>
-                                            <td class="mcnTextContent" valign="top" style="padding:0 0" width="273">
+                                            <td class="mcnTextContent" valign="top" style="padding:0 0" width="271">
                                                 <!-- BEGIN COLUMN CONTENT -->
 
                                                 <table width="100%" cellpadding="9" class="hideableTable" style="font-family: Arial;padding:9px;font-size: 13px;!important">
@@ -91,11 +91,11 @@
             </td>
             <td align="center" valign="top" style="width:300px;" width="300">
             <![endif]-->
-            <table align="left" border="0" cellpadding="0" cellspacing="0" width="291" style="width: 291px"
+            <table align="left" border="0" cellpadding="0" cellspacing="0" width="290" style="width: 290px"
                    class="lowerColumnContainer">
                 <tr>
                     <td valign="top" class="lowerRightColumnContainer">
-                        <table border="0" cellpadding="0" cellspacing="0" style="width: 291px" width="291"
+                        <table border="0" cellpadding="0" cellspacing="0" style="width: 290px" width="290"
                                class="mcnCaptionBlock">
                             <tbody class="mcnCaptionBlockOuter">
                             <tr>
