@@ -2,7 +2,7 @@
        class="mcnCaptionBlock">
     <tbody class="mcnCaptionBlockOuter">
     <tr>
-        <td class="mcnCaptionBlockInner" valign="top" style="padding:0;">
+        <td class="mcnCaptionBlockInner" valign="top" style="padding:9px 0;">
 
 
             <table border="0" cellpadding="0" cellspacing="0"

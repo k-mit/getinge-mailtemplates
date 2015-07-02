@@ -63,7 +63,6 @@
                             Read More &rarr;
                         </a>
 
-                        <p>&nbsp;</p>
 
                     </td>
                 </tr>
