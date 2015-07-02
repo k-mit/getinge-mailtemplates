@@ -23,7 +23,7 @@
                 <![endif]-->
                 <table border="0" cellpadding="0" cellspacing="0" width="100%" class="templateContainer">
                     <tr>
-                        <td align="center" valign="top" id="templatePreheader">
+                        <td align="center" valign="top" id="templatePreheader" bgcolor="#ffffff">
                             <!-- BEGIN PREHEADER // -->
                             <?php include("parts/preheader.php"); ?>
 
