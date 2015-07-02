@@ -13,7 +13,7 @@
 </head>
 <body bgcolor="#f2f2f2" style="background:#f2f2f2">
 <center>
-    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable" bgcolor="#f2f2f2" style="background:#f2f2f2">
         <tr>
             <td align="center" valign="top" id="bodyCell" bgcolor="#f2f2f2" style="background:#f2f2f2">
                 <!--[if gte mso 9]>
