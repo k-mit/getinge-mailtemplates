@@ -38,7 +38,7 @@
                                 <td valign="top" class="mcnTextContent">
                                     <h2 class="null">Completely synergize
                                         resource</h2>
-                                    <span style="color:#2ab2e5; font-size:12px; display: block; padding-top: 9px">2015.06.02 | Solution</span>
+                                    <div style="color:#2ab2e5; font-size:12px; padding-top: 9px">2015.06.02 | Solution</div>
                                     Collaboratively administrate empowered
                                     markets via plug-and-play networks.
                                     Dynamically procrastinate B2C users after

@@ -38,11 +38,11 @@
                                 <td valign="top" class="mcnTextContent" style="color:#ffffff!important; padding: 18px!important">
                                     <h2 style="color: #ffffff!important; font-size: 20px">Completely synergize
                                         resource</h2>
-                                    <span style="color:#ffffff; font-style: italic; font-size:12px; display: block; padding-top: 9px">2015.06.02 | Solution</span>
-                                    Collaboratively administrate empowered
+                                    <div style="color:#ffffff; font-style: italic; font-size:12px; padding-top: 9px">2015.06.02 | Solution</div>
+                                     <span style="color:#ffffff;font-size:12px;">Collaboratively administrate empowered
                                     markets via plug-and-play networks.
                                     Dynamically procrastinate B2C users after
-                                    installed base benefits.<br><br>
+                                    installed base benefits.</span><br><br>
                                     <a href="http://getingegroup.com"
                                        target="_blank" style="color:#ffffff; text-decoration: none;">Read more &rarr;</a>
 

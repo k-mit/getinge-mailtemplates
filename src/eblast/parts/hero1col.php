@@ -51,7 +51,7 @@
                         style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;">
 
 
-                        <span style="color:#2ab2e5; font-size:12px; display: block;">2015.06.02 | Exhibition</span>
+                        <div style="color:#2ab2e5; font-size:12px;">2015.06.02 | Exhibition</div>
 
                         For more than 175 years, Maquet has been a pioneer in
                         medical excellence for hospitals and clinicians. This
