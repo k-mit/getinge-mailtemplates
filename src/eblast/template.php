@@ -32,7 +32,7 @@
                     </tr>
 
                     <tr>
-                        <td align="center" valign="top" id="templateBody">
+                        <td align="center" valign="top" id="templateBody" bgcolor="#ffffff">
                             <!-- BEGIN BODY // -->
                             <table border="0" cellpadding="0" cellspacing="0" width="100%">
                                 <tr>

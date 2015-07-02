@@ -30,10 +30,10 @@
                 <tbody class="mcnTextBlockOuter">
                 <tr>
 
-                    <td valign="middle" class="mcnTextContent"
+                    <td valign="middle" class="mcnTextContent" height="68"
                         style="padding: 0; height: 68px; border-top: 1px solid #d1d1d1; border-bottom: 1px dashed #d1d1d1">
 
-                        <table height="32" width="100%">
+                        <table height="32" width="100%" style="height: 32px;">
 
                             <tbody>
                             <tr>
