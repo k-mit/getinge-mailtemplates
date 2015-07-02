@@ -38,7 +38,7 @@
                                     throughout the hospital.<br>
                                     <br>
                                     <a href="http://getingegroup.com"
-                                       target="_blank">Read more &rarr;</a>
+                                       target="_blank" style="color:#0c5da9; text-decoration: none;">Read more &rarr;</a>
                                 </td>
                             </tr>
                             </tbody>
@@ -82,7 +82,7 @@
                                     throughout the hospital.<br>
                                     <br>
                                     <a href="http://getingegroup.com"
-                                       target="_blank">Read more &rarr;</a>
+                                       target="_blank" style="color:#0c5da9; text-decoration: none;">Read more &rarr;</a>
                                 </td>
                             </tr>
                             </tbody>

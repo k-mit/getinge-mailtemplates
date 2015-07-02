@@ -59,8 +59,9 @@
                         technologies in conjunction with our partner companies
                         ArjoHuntleigh and Getinge Infection&nbsp;Control.<br>
                         <br>
-                        <a href="http://getingegroup.com" target="_blank">Read
-                            More &rarr;</a>
+                        <a href="http://getingegroup.com" target="_blank" style="color:#0c5da9; text-decoration: none;">
+                            Read More &rarr;
+                        </a>
 
                         <p>&nbsp;</p>
 

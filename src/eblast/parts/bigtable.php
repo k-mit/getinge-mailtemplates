@@ -78,11 +78,11 @@
                             </tr>
                             </tbody>
                         </table>
-                        <table width="100%" style="display:none" class="showableTable">
+                        <table width="100%" style="font-size: 0; max-height: 0; line-height: 0; display: none;" class="showableTable">
                             <tbody>
                             <tr>
-                                <td>
-                                    <a style="display:inline-block; padding: 15px 20px; border: 1px solid #005baa; font-weight: 100; text-align:center;"
+                                <td style="padding-top: 18px">
+                                    <a style="color:#0c5da9; text-decoration: none; display:inline-block; padding: 15px 20px; border: 1px solid #0c5da9; font-weight: 200; text-align:center;"
                                        href="#">Click Here To Read The Stats</a></td>
                             </tr>
                             </tbody>

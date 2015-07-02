@@ -24,7 +24,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="mcnTextContent" valign="top" style="padding:0;" width="176">
+                                    <td class="mcnTextContent" valign="top" style="padding:0; text-align: left" width="176">
                                         <h2 >Lorem ipsum dolor sit amet, ferri consul laudem.</h2>
 
                                         <span style="color:#2ab2e5; font-size:12px; display: block; padding-top: 9px">2015.06.02 | Exhibition</span>
@@ -32,7 +32,7 @@
                                         patient care at your hospital. Come to booth no. S2G30 to learn more and
                                         exchange ideas at our bistro while you enjoy coffees and snacks.<br>
                                         <br>
-                                        <a href="http://getingegroup.com" target="_blank">Read more&nbsp;&rarr;</a>
+                                        <a href="http://getingegroup.com" target="_blank" style="color:#0c5da9; text-decoration: none;">Read more&nbsp;&rarr;</a>
                                     </td>
                                 </tr>
                                 </tbody>
