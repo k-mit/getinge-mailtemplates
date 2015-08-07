@@ -18,13 +18,13 @@
 
                                         <img alt=""
                                              src="https://k-mit.se/dev/getinge/mail/strat.jpg"
-                                             width="173" style="max-width:480px;" class="mcnImage">
+                                             width="174" style="max-width:480px;" class="mcnImage">
 
 
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="mcnTextContent" valign="top" style="padding:0; text-align: left" width="173">
+                                    <td class="mcnTextContent" valign="top" style="padding:0; text-align: left" width="174">
                                         <h2 >Lorem ipsum dolor sit amet, ferri consul laudem.</h2>
 
                                         <div style="color:#2ab2e5; font-size:12px; padding-top: 9px">2015.06.02 | Exhibition</div>
