@@ -4,7 +4,7 @@
             <td align="left" style="text-align:center; display:inline-block; padding-left: 9px" valign="top">
                 <!-- BEGIN INDIVIDUAL COLUMNS // -->
                 <!--[if gte mso 9]>
-                <table align="left" border="0" cellspacing="0" cellpadding="0" style="width:600px;" width="582">
+                <table align="left" border="0" cellspacing="0" cellpadding="0" style="width:582px;" width="582">
                     <tr>
                         <td align="left" valign="top" style="width:191px;" width="191">
                 <![endif]-->

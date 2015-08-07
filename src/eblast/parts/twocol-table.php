@@ -3,9 +3,9 @@
         <td align="center" valign="top" style="padding: 9px 0 9px 18px;">
             <!-- BEGIN INDIVIDUAL COLUMNS // -->
             <!--[if gte mso 9]>
-            <table align="center" border="0" cellspacing="0" cellpadding="0" style="width:600px;" width="600">
+            <table align="center" border="0" cellspacing="0" cellpadding="0" style="width:582px;" width="582">
                 <tr>
-                    <td align="center" valign="top" style="width:300px;" width="300">
+                    <td align="center" valign="top" style="width:291px;" width="291">
             <![endif]-->
             <table align="left" border="0" cellpadding="0" cellspacing="0" width="291" style="width: 291px"
                    class="lowerColumnContainer">
