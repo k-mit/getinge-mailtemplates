@@ -32,7 +32,7 @@
                                         patient care at your hospital. Come to booth no. S2G30 to learn more and
                                         exchange ideas at our bistro while you enjoy coffees and snacks.<br>
                                         <br>
-                                        <a href="http://getingegroup.com" target="_blank" style="color:#0c5da9; text-decoration: none;">Read more&nbsp;&rarr;</a>
+                                        <a href="http://getingegroup.com" target="_blank" style="color: #0c5da9; text-decoration: none; padding: 15px 20px; border: 1px solid #0c5da9; font-weight: 200; text-align: center;">Read more</a><br><br>
                                     </td>
                                 </tr>
                                 </tbody>

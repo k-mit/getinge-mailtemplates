@@ -39,7 +39,7 @@
                                     <h2 style="color: #ffffff!important; font-size: 20px">Completely synergize
                                         resource</h2>
                                     <div style="color:#ffffff; font-style: italic; font-size:12px; padding-top: 9px">2015.06.02 | Solution</div>
-                                     <span style="color:#ffffff;font-size:12px;">Collaboratively administrate empowered
+                                     <span style="color:#ffffff; font-family: 'Helvetica Neue', Helvetica, Arial; font-size:15px;">Collaboratively administrate empowered
                                     markets via plug-and-play networks.
                                     Dynamically procrastinate B2C users after
                                     installed base benefits.</span><br><br>
