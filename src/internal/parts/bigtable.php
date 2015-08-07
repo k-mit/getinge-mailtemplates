@@ -9,7 +9,7 @@
                 <tbody>
                 <tr>
                     <td valign="top" class="mcnTextContent" style="padding: 9px 0 9px 18px">
-                        <table width="100%" border="0" cellpadding="9" class="hideableTable" style="border-color: #ffffff; font-family: Arial;padding:9px;font-size: 13px;!important">
+                        <table width="100%" border="0" cellpadding="9" class="hideableTable" style="border-color: #ffffff; font-family: 'Helvetica Neue', Helvetica, Arial;padding:9px;font-size: 13px;!important">
                             <thead class="eor">
                             <tr style="background-color: #e1eaf1;color:#0046ad">
                                 <th>XYZ</th>

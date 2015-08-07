@@ -49,13 +49,13 @@
                             </tbody>
                         </table>
                     </td>
+                </tr>
                     <tr>
                     <td style="background-image: url('https://k-mit.se/dev/getinge/mail/dash_gray.png'); background-repeat: no-repeat; font-size: 4px; padding: 0">
                         <!--[if gte mso 9]>
                         <img src="https://k-mit.se/dev/getinge/mail/dash_gray.png" width="564" height="10">
                         <![endif]--><br>
                     </td>
-                </tr>
                 </tr>
                 </tbody>
             </table>

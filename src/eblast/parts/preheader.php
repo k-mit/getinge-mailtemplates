@@ -31,7 +31,7 @@
                 <tr>
 
                     <td valign="middle" class="mcnTextContent" height="68"
-                        style="padding: 0; height: 68px; border-top: 1px solid #d1d1d1; border-bottom: 1px dashed #d1d1d1">
+                        style="padding: 0; height: 68px; border-top: 1px solid #d1d1d1;">
 
                         <table height="32" width="100%" style="height: 32px;">
 
@@ -48,6 +48,13 @@
                             </tr>
                             </tbody>
                         </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="background-image: url('https://k-mit.se/dev/getinge/mail/dash_gray.png'); background-repeat: no-repeat; font-size: 4px; padding: 0">
+                        <!--[if gte mso 9]>
+                        <img src="https://k-mit.se/dev/getinge/mail/dash_gray.png" width="564" height="10">
+                        <![endif]--><br>
                     </td>
                 </tr>
                 </tbody>

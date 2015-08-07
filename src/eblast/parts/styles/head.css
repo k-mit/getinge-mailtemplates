@@ -137,7 +137,7 @@ body, #bodyTable {
 */
 h1 {
     color: #010000 !important;
-    font-family: Arial;
+    font-family: 'Helvetica Neue', Helvetica, Arial;
     font-size: 28px;
     font-style: normal;
     font-weight: bold;
@@ -154,7 +154,7 @@ h1 {
 */
 h2 {
     color: #404040 !important;
-    font-family: Arial;
+    font-family: 'Helvetica Neue', Helvetica, Arial;
     font-size: 22px;
     font-style: normal;
     font-weight: bold;
@@ -171,7 +171,7 @@ h2 {
 */
 h3 {
     color: #333333 !important;
-    font-family: Arial;
+    font-family: 'Helvetica Neue', Helvetica, Arial;
     font-size: 18px;
     font-style: normal;
     font-weight: bold;
@@ -188,7 +188,7 @@ h3 {
 */
 h4 {
     color: #2ab2e5 !important;
-    font-family: Arial;
+    font-family: 'Helvetica Neue', Helvetica, Arial;
     font-size: 15px;
     font-style: normal;
     font-weight: bold;
@@ -215,7 +215,7 @@ h4 {
 */
 .preheaderContainer .mcnTextContent, .preheaderContainer .mcnTextContent p {
     color: #333333;
-    font-family: Arial;
+    font-family: 'Helvetica Neue', Helvetica, Arial;
     font-size: 11px;
     line-height: 125%;
     text-align: left;
@@ -250,7 +250,7 @@ h4 {
 */
 .headerContainer .mcnTextContent, .headerContainer .mcnTextContent p {
     color: #333333;
-    font-family: Arial;
+    font-family: 'Helvetica Neue', Helvetica, Arial;
     font-size: 15px;
     line-height: 150%;
     text-align: left;
@@ -285,7 +285,7 @@ h4 {
 */
 .bodyContainer .mcnTextContent, .bodyContainer .mcnTextContent p {
     color: #333333;
-    font-family: Arial;
+    font-family: 'Helvetica Neue', Helvetica, Arial;
     font-size: 15px;
     line-height: 150%;
     text-align: left;
@@ -320,7 +320,7 @@ h4 {
 */
 .upperLeftColumnContainer .mcnTextContent, .upperLeftColumnContainer .mcnTextContent p {
     color: #333333;
-    font-family: Arial;
+    font-family: 'Helvetica Neue', Helvetica, Arial;
     font-size: 15px;
     line-height: 150%;
     text-align: left;
@@ -344,7 +344,7 @@ h4 {
 */
 .upperCenterColumnContainer .mcnTextContent, .upperCenterColumnContainer .mcnTextContent p {
     color: #333333;
-    font-family: Arial;
+    font-family: 'Helvetica Neue', Helvetica, Arial;
     font-size: 15px;
     line-height: 150%;
     text-align: left;
@@ -368,7 +368,7 @@ h4 {
 */
 .upperRightColumnContainer .mcnTextContent, .upperRightColumnContainer .mcnTextContent p {
     color: #333333;
-    font-family: Arial;
+    font-family: 'Helvetica Neue', Helvetica, Arial;
     font-size: 15px;
     line-height: 150%;
     text-align: left;
@@ -403,7 +403,7 @@ h4 {
 */
 .lowerLeftColumnContainer .mcnTextContent, .lowerLeftColumnContainer .mcnTextContent p {
     color: #333333;
-    font-family: Arial;
+    font-family: 'Helvetica Neue', Helvetica, Arial;
     font-size: 15px;
     line-height: 150%;
     text-align: left;
@@ -427,7 +427,7 @@ h4 {
 */
 .lowerRightColumnContainer .mcnTextContent, .lowerRightColumnContainer .mcnTextContent p {
     color: #333333;
-    font-family: Arial;
+    font-family: 'Helvetica Neue', Helvetica, Arial;
     font-size: 15px;
     line-height: 150%;
     text-align: left;
@@ -462,7 +462,7 @@ h4 {
 */
 .footerContainer .mcnTextContent, .footerContainer .mcnTextContent p {
     color: #ffffff;
-    font-family: Arial;
+    font-family: 'Helvetica Neue', Helvetica, Arial;
     font-size: 11px;
     line-height: 125%;
     text-align: center;
