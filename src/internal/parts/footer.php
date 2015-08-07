@@ -7,7 +7,7 @@
                     <td style="background-color:#0046ad; padding: 18px;color:#ffffff;font-size:11px;font-weight:100;width:100%;" width="100%">
                         <table width="100%" style="width: 100%;" class="footerContainer">
                             <tr>
-                                <td width="100%" style="border-top: 1px solid #ffffff; border-bottom: 1px dashed #ffffff; width: 100%; padding: 18px 0">
+                                <td width="100%" style="border-top: 1px solid #ffffff;  padding: 18px 0">
                                     <table width="100%" border="0" cellspacing="0" cellpadding="0" style="" class="footerContent">
                                         <tr>
                                             <td>
@@ -32,7 +32,15 @@
 
                                 </td>
                             </tr>
+                            <tr>
+                                <td style="background-image: url('https://k-mit.se/dev/getinge/mail/dash_white.png'); background-repeat: no-repeat; font-size: 4px; padding: 0">
+                                <!--[if gte mso 9]>
+                                    <img src="https://k-mit.se/dev/getinge/mail/dash_white.png" width="564" height="10">
+                                    <![endif]--><br>
+                                </td>
+                            </tr>
                         </table>
+
                     </td>
                 </tr>
             </table>
