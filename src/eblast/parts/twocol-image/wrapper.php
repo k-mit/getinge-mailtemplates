@@ -38,13 +38,13 @@
                                 <td valign="top" class="mcnTextContent">
                                     <h2 class="null">Completely synergize
                                         resource</h2>
-                                    <div style="color:#2ab2e5; font-size:12px; padding-top: 9px">2015.06.02 | Solution</div>
+                                    <div style="color:#2ab2e5; font-size:12px; padding-top: 9px;font-weight: bold;">2015.06.02 | Solution</div>
                                     Collaboratively administrate empowered
                                     markets via plug-and-play networks.
                                     Dynamically procrastinate B2C users after
-                                    installed base benefits.<br><br>
+                                    installed base benefits.<br>
                                     <a href="http://getingegroup.com"
-                                       target="_blank" style="color:#0c5da9; text-decoration: none;">Read more &rarr;</a>
+                                       target="_blank" style="color:#0046ad; text-decoration: none;line-height: 30px;">Read more &rarr;</a>
                                 </td>
                             </tr>
                             </tbody>

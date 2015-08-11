@@ -11,7 +11,7 @@
         <?php include("parts/styles/head.css")?>
     </style>
 </head>
-<body bgcolor="#f2f2f2" style="background:#f2f2f2">
+<body bgcolor="#f4f4f5" style="background:#f4f4f5">
 <center>
     <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable" bgcolor="#f2f2f2" style="background:#f2f2f2">
         <tr>

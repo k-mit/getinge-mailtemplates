@@ -58,8 +58,7 @@
                         year, we will be&nbsp;presenting the latest in medical
                         technologies in conjunction with our partner companies
                         ArjoHuntleigh and Getinge Infection&nbsp;Control.<br>
-                        <br>
-                        <a href="http://getingegroup.com" target="_blank" style="color:#0c5da9; text-decoration: none;">
+                        <a href="http://getingegroup.com" target="_blank" style="color:#0c5da9; text-decoration: none;line-height: 30px;">
                             Read More &rarr;
                         </a>
 

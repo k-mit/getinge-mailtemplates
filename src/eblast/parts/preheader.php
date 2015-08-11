@@ -8,12 +8,12 @@
                 <tr>
 
                     <td valign="top" class="mcnTextContent"
-                        style="font-size: 10px!important; color: #d1d1d1">
+                        style="font-size: 13px!important; color: #999999">
 
                         We Welcome you to Arab Health 2015
                     </td>
                     <td valign="top" align="right" class="mcnTextContent"
-                        style="text-align: right; font-size: 10px!important; color: #d1d1d1">
+                        style="text-align: right; font-size: 13px!important; color: #0046ad">
 
                         <a href="http://maquet.com" target="_blank">View this email in
                             your browser</a>
@@ -42,7 +42,7 @@
                                                          style="width: 95px; height: 32px; margin: 0px;"
                                                          width="95" height="32"></td>
                                 <td valign="middle" align="right" class="headerTitle"
-                                    style="text-align: right; font-family:arial,helvetica neue,helvetica,sans-serif;font-size:22px;line-height: 125%; color:#999999;">
+                                    style="text-align: right; font-family:helvetica neue,helvetica,arial,sans-serif;font-size:22px;line-height: 125%; color:#999999;">
                                     We Welcome you to Arab Health 2015
                                 </td>
                             </tr>

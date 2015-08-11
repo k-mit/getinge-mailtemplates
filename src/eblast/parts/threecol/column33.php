@@ -27,7 +27,7 @@
                                     <td class="mcnTextContent" valign="top" style="padding:0; text-align: left" width="174">
                                         <h2 >Lorem ipsum dolor sit amet, ferri consul laudem.</h2>
 
-                                        <div style="color:#2ab2e5; font-size:12px; padding-top: 9px">2015.06.02 | Exhibition</div>
+                                        <div style="color:#2ab2e5; font-size:12px; padding-top: 9px;font-weight: bold;">2015.06.02 | Exhibition</div>
                                         Experience how INSIGHT can improve workflow efficiency and the quality of
                                         patient care at your hospital. Come to booth no. S2G30 to learn more and
                                         exchange ideas at our bistro while you enjoy coffees and snacks.<br>

@@ -44,7 +44,7 @@
                                     Dynamically procrastinate B2C users after
                                     installed base benefits.</span><br><br>
                                     <a href="http://getingegroup.com"
-                                       target="_blank" style="color:#ffffff; text-decoration: none;">Read more &rarr;</a>
+                                       target="_blank" style="color:#ffffff; text-decoration: none;line-height: 30px;">Read more &rarr;</a>
 
                                 </td>
                             </tr>

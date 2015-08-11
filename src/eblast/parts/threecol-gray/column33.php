@@ -17,12 +17,11 @@
                                             <tr>
                                                 <td class="mcnTextContent" style="padding: 9px; text-align: left">
                                                     <h2>Lorem ipsum dolor sit amet, ferri consul laudem.</h2>
-                                                    <div style="color:#2ab2e5; font-size:12px; padding-top: 9px;">2015.06.02 | Exhibition</div>
+                                                    <div style="color:#2ab2e5; font-size:12px; padding-top: 9px;font-weight: bold;">2015.06.02 | Exhibition</div>
                                                     Experience how INSIGHT can improve workflow efficiency and the quality of
                                                     patient care at your hospital. Come to booth no. S2G30 to learn more and
                                                     exchange ideas at our bistro while you enjoy coffees and snacks.<br>
-                                                    <br>
-                                                    <a href="http://getingegroup.com" target="_blank" style="color:#0c5da9; text-decoration: none;">Read more&nbsp;&rarr;</a>
+                                                    <a href="http://getingegroup.com" target="_blank" style="color:#0046ad; text-decoration: none; line-height: 30px;">Read more&nbsp;&rarr;</a>
                                                 </td>
                                             </tr>
                                         </table>

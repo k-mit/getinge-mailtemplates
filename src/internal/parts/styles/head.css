@@ -794,6 +794,9 @@ table.showableTable {
         /*display: block!important;*/
 
     }
+    .mcnCaptionBlock .gray .mcnTextContent {
+        padding: 18px!important;
+    }
 }
 .eor tr:nth-child(even) td {
     background-color: #ededed;

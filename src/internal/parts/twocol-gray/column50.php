@@ -29,7 +29,7 @@
 												while you enjoy coffees and snacks.<br>
 												<br>
 												<a href="http://getingegroup.com" target="_blank"
-												   style="color:#0c5da9; text-decoration: none;">Read
+												   style="color:#0c5da9; text-decoration: none;line-height: 30px;">Read
 													more&nbsp;&rarr;</a>
 											</td>
 										</tr>

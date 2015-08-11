@@ -116,7 +116,7 @@
                                                 timely deliverables for real-time schemas.
                                                 Dramatically maintain clicks-and-mortar<br>
                                                 solutions without functional solutions.<br>
-                                                <a href="http://getingegroup.com" target="_blank" style="color:#0c5da9; text-decoration: none;">Read
+                                                <a href="http://getingegroup.com" target="_blank" style="color:#0046ad; text-decoration: none;line-height: 30px;">Read
                                                     more&nbsp;&rarr;</a>
 
                                                 <!-- END COLUMN CONTENT -->
