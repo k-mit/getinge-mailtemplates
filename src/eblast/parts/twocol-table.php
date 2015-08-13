@@ -103,12 +103,12 @@
 
 
                                     <table align="left" border="0" cellpadding="0" cellspacing="0"
-                                           class="mcnCaptionBottomContent" width="false">
+                                           class="mcnCaptionBottomContent minusMargin30" width="false">
                                         <tbody>
                                         <tr>
                                             <td class="mcnTextContent" valign="top" style="padding:0 0" width="273">
                                                 <!-- BEGIN COLUMN CONTENT -->
-                                                <h2 class="null">Completely synergize
+                                                <h2 class="null smallNegativeBottomSpace">Completely synergize
                                                     resource</h2>
                                                 <br>
                                                 Efficiently unleash cross-media information
@@ -116,7 +116,7 @@
                                                 timely deliverables for real-time schemas.
                                                 Dramatically maintain clicks-and-mortar<br>
                                                 solutions without functional solutions.<br>
-                                                <a href="http://getingegroup.com" target="_blank" style="color:#0046ad; text-decoration: none;line-height: 30px;">Read
+                                                <a href="http://getingegroup.com" target="_blank" style="color:#0046ad; text-decoration: none;line-height: 40px;">Read
                                                     more&nbsp;&rarr;</a>
 
                                                 <!-- END COLUMN CONTENT -->

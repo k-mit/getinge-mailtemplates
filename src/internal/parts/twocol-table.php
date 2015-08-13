@@ -108,7 +108,7 @@
                                         <tr>
                                             <td class="mcnTextContent" valign="top" style="padding:0 0" width="273">
                                                 <!-- BEGIN COLUMN CONTENT -->
-                                                <h2 class="null">Completely synergize
+                                                <h2 class="null smallNegativeBottomSpace">Completely synergize
                                                     resource</h2>
                                                 <br>
                                                 Efficiently unleash cross-media information
