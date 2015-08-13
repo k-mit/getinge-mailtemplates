@@ -38,12 +38,12 @@
                                 <td valign="top" class="mcnTextContent" style="color:#ffffff!important; padding: 18px 18px 18px 18px!important">
                                     <h2 style="color: #ffffff!important; font-size: 20px">Completely synergize
                                         resource</h2>
-                                    <div style="color:#ffffff; font-style: italic; font-size:12px; padding-top: 9px">2015.06.02 | Solution</div>
+                                    <div style="color:#ffffff; font-weight: bold;  font-style: italic; font-size:12px; padding-top: 9px"class="blueSubheader">2015.06.02 | Solution</div>
                                      <span style="color:#ffffff; font-family: 'Helvetica Neue', Helvetica, Arial; font-size:15px;">Collaboratively administrate empowered
                                     markets via plug-and-play networks.
                                     Dynamically procrastinate B2C users after
                                     installed base benefits.</span><br>
-                                    <a href="http://getingegroup.com"
+                                    <a class="readmoreLink" href="http://getingegroup.com"
                                        target="_blank" style="color:#ffffff; text-decoration: none;line-height: 40px;">Read more &rarr;</a>
 
                                 </td>

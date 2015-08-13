@@ -51,7 +51,7 @@
                         style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;">
 
 
-                        <div style="color:#2ab2e5; font-size:12px;font-weight: bold;">2015.06.02 | Exhibition</div>
+                        <div style="color:#2ab2e5; font-size:12px;font-weight: bold;"class="blueSubheader">2015.06.02 | Exhibition</div>
 
                         For more than 175 years, Maquet has been a pioneer in
                         medical excellence for hospitals and clinicians. This
@@ -59,7 +59,7 @@
                         technologies in conjunction with our partner companies
                         ArjoHuntleigh and Getinge Infection&nbsp;Control.<br>
 
-                        <a href="http://getingegroup.com" target="_blank" style="color:#0046ad; text-decoration: none;line-height: 40px;">
+                        <a class="readmoreLink" href="http://getingegroup.com" target="_blank" style="color:#0046ad; text-decoration: none;line-height: 40px;">
                             Read More &rarr;
                         </a>
 

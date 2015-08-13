@@ -67,7 +67,7 @@ p, a, li, td, body, table, blockquote {
 }
 
 .ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .ExternalClass span, .ExternalClass font {
-    line-height: 100%;
+    line-height: 140%;
 }
 
 #bodyCell {
@@ -141,7 +141,7 @@ h1 {
     font-size: 28px;
     font-style: normal;
     font-weight: bold;
-    line-height: 125%;
+    line-height: 39px;
     letter-spacing: -1px;
     text-align: left;
 }
@@ -175,7 +175,7 @@ h3 {
     font-size: 18px;
     font-style: normal;
     font-weight: bold;
-    line-height: 125%;
+    line-height: 140%;
     letter-spacing: -.5px;
     text-align: left;
 }
@@ -192,7 +192,7 @@ h4 {
     font-size: 15px;
     font-style: normal;
     font-weight: bold;
-    line-height: 125%;
+    line-height: 140%;
     letter-spacing: normal;
     text-align: left;
 }
@@ -217,7 +217,7 @@ h4 {
     color: #333333;
     font-family: 'Helvetica Neue', Helvetica, Arial;
     font-size: 11px;
-    line-height: 125%;
+    line-height: 140%;
     text-align: left;
 }
 
@@ -251,8 +251,8 @@ h4 {
 .headerContainer .mcnTextContent, .headerContainer .mcnTextContent p {
     color: #333333;
     font-family: 'Helvetica Neue', Helvetica, Arial;
-    font-size:15px;
-    line-height: 22px;
+    font-size: 15px;
+    line-height: 140%;
     text-align: left;
 }
 
@@ -287,7 +287,7 @@ h4 {
     color: #333333;
     font-family: 'Helvetica Neue', Helvetica,Arial;
     font-size: 15px;
-    line-height: 22px;
+    line-height: 140%;
     text-align: left;
     font-weight: normal;
 }
@@ -323,7 +323,7 @@ h4 {
     color: #333333;
     font-family: 'Helvetica Neue', Helvetica, Arial;
     font-size: 15px;
-    line-height: 150%;
+    line-height: 140%;
     text-align: left;
 }
 
@@ -347,7 +347,7 @@ h4 {
     color: #333333;
     font-family: 'Helvetica Neue', Helvetica, Arial;
     font-size: 15px;
-    line-height: 150%;
+    line-height: 140%;
     text-align: left;
 }
 
@@ -371,7 +371,7 @@ h4 {
     color: #333333;
     font-family: 'Helvetica Neue', Helvetica, Arial;
     font-size: 15px;
-    line-height: 150%;
+    line-height: 140%;
     text-align: left;
 }
 
@@ -406,7 +406,7 @@ h4 {
     color: #333333;
     font-family: 'Helvetica Neue', Helvetica, Arial;
     font-size: 15px;
-    line-height: 150%;
+    line-height: 140%;
     text-align: left;
 }
 
@@ -430,7 +430,7 @@ h4 {
     color: #333333;
     font-family: 'Helvetica Neue', Helvetica, Arial;
     font-size: 15px;
-    line-height: 150%;
+    line-height: 140%;
     text-align: left;
 }
 
@@ -465,7 +465,7 @@ h4 {
     color: #ffffff;
     font-family: 'Helvetica Neue', Helvetica, Arial;
     font-size: 11px;
-    line-height: 125%;
+    line-height: 140%;
     text-align: center;
 }
 
@@ -492,9 +492,7 @@ h4 {
     .lowerColumnContainer {
         width: 291px;
     }
-    .minusMargin30{
 
-    }
 }
 
 @media only screen and (max-width: 480px) {
@@ -558,8 +556,11 @@ h4 {
     }
 
     td.mcnTextContent.gray {
-        padding-right: 0px !important;
+        padding-right: 9px !important;
         padding-left: 0px !important;
+    }
+    .lowerColumnContainer     td.mcnTextContent.gray {
+        padding-right: 0 !important;
     }
 
     td.mcnImageCardLeftImageContent, td.mcnImageCardRightImageContent {
@@ -585,14 +586,25 @@ h4 {
     .minusMargin30{
         margin-bottom: -30px;
     }
+    .blueSubheader {
+        font-size: 11px!important;
+        padding-top: 3px!important;
+    }
+    #templatePreheader .mcnTextBlockOuter td.mcnTextContent {
+        padding-right: 0!important;
+        padding-left: 0!important;
+    }
+
     /*
     @tab Mobile Styles
     @section heading 1
     @tip Make the first-level headings larger in size for better readability on small screens.
     */
     h1 {
-        font-size: 24px !important;
-        line-height: 125% !important;
+        font-size: 20px !important;
+        line-height: 140% !important;
+        margin-bottom: -10px!important;
+        margin-top: -10px!important;
     }
 
     /*
@@ -601,23 +613,18 @@ h4 {
     @tip Make the second-level headings larger in size for better readability on small screens.
     */
     h2 {
-        font-size: 20px !important;
-        line-height: 125% !important;
+        font-size: 16px !important;
+        line-height: 140% !important;
     }
-    .smallNegativeBottomSpace{
-        margin-bottom: -15px;
-    }
-    .smallNegativeBottomSpace2{
-        margin-bottom: -9px;
-    }
+
     /*
     @tab Mobile Styles
     @section heading 3
     @tip Make the third-level headings larger in size for better readability on small screens.
     */
     h3 {
-        font-size: 18px !important;
-        line-height: 125% !important;
+        font-size: 13px !important;
+        line-height: 140% !important;
     }
 
     /*
@@ -626,8 +633,8 @@ h4 {
     @tip Make the fourth-level headings larger in size for better readability on small screens.
     */
     h4 {
-        font-size: 18px !important;
-        line-height: 125% !important;
+        font-size: 13px !important;
+        line-height: 140% !important;
     }
 
     /*
@@ -636,8 +643,8 @@ h4 {
     @tip Make the boxed text larger in size for better readability on small screens. We recommend a font size of at least 16px.
     */
     table.mcnBoxedTextContentContainer td.mcnTextContent, td.mcnBoxedTextContentContainer td.mcnTextContent p {
-        font-size: 18px !important;
-        line-height: 125% !important;
+        font-size: 13px !important;
+        line-height: 140% !important;
     }
 
     /*
@@ -655,8 +662,8 @@ h4 {
     @tip Make the preheader text larger in size for better readability on small screens.
     */
     td.preheaderContainer td.mcnTextContent, td.preheaderContainer td.mcnTextContent p {
-        font-size: 18px !important;
-        line-height: 115% !important;
+        font-size: 11px !important;
+        line-height: 140% !important;
     }
 
     /*
@@ -665,8 +672,8 @@ h4 {
     @tip Make the header text larger in size for better readability on small screens.
     */
     td.headerContainer td.mcnTextContent, td.headerContainer td.mcnTextContent p {
-        font-size: 18px !important;
-        line-height: 125% !important;
+        font-size: 13px !important;
+        line-height: 140% !important;
     }
 
     /*
@@ -675,8 +682,8 @@ h4 {
     @tip Make the body text larger in size for better readability on small screens. We recommend a font size of at least 16px.
     */
     td.bodyContainer td.mcnTextContent, td.bodyContainer td.mcnTextContent p {
-        font-size: 18px !important;
-        line-height: 125% !important;
+        font-size: 13px !important;
+        line-height: 140% !important;
     }
 
     /*
@@ -685,8 +692,8 @@ h4 {
     @tip Make the left column text larger in size for better readability on small screens. We recommend a font size of at least 16px.
     */
     td.upperLeftColumnContainer td.mcnTextContent, td.upperLeftColumnContainer td.mcnTextContent p {
-        font-size: 18px !important;
-        line-height: 125% !important;
+        font-size: 13px !important;
+        line-height: 140% !important;
     }
 
     /*
@@ -695,8 +702,8 @@ h4 {
     @tip Make the center column text larger in size for better readability on small screens. We recommend a font size of at least 16px.
     */
     td.upperCenterColumnContainer td.mcnTextContent, td.upperCenterColumnContainer td.mcnTextContent p {
-        font-size: 18px !important;
-        line-height: 125% !important;
+        font-size: 13px !important;
+        line-height: 140% !important;
     }
 
     /*
@@ -705,8 +712,8 @@ h4 {
     @tip Make the right column text larger in size for better readability on small screens. We recommend a font size of at least 16px.
     */
     td.upperRightColumnContainer td.mcnTextContent, td.upperRightColumnContainer td.mcnTextContent p {
-        font-size: 18px !important;
-        line-height: 125% !important;
+        font-size: 13px !important;
+        line-height: 140% !important;
     }
 
     /*
@@ -718,8 +725,8 @@ h4 {
         /*@tab Mobile Styles
 @section Left Two Column Text
 @tip Make the left column text larger in size for better readability on small screens. We recommend a font size of at least 16px.*/
-        font-size: 18px !important;
-        line-height: 125% !important;
+        font-size: 13px !important;
+        line-height: 140% !important;
     }
 
     /*
@@ -731,8 +738,8 @@ h4 {
         /*@tab Mobile Styles
 @section Right Two Column Text
 @tip Make the right column text larger in size for better readability on small screens. We recommend a font size of at least 16px.*/
-        font-size: 18px !important;
-        line-height: 125% !important;
+        font-size: 13px !important;
+        line-height: 140% !important;
     }
 
     /*
@@ -742,7 +749,7 @@ h4 {
     */
     td.footerContainer td.mcnTextContent, td.footerContainer td.mcnTextContent p {
         font-size: 11px !important;
-        line-height: 115% !important;
+        line-height: 140% !important;
     }
 
 }
@@ -754,7 +761,9 @@ table.showableTable {
 @media only screen and (max-width: 480px) {
     table.showableTable {
         display: block!important;
-        font-size: 14px!important; max-height: none!important; line-height: 125%!important;
+        font-size: 14px !important;
+        max-height: none!important; line-height: 140% !important;
+        padding-top: 18px;
 
 
     }
@@ -800,6 +809,9 @@ table.showableTable {
     }
     .mcnCaptionBlock .gray .mcnTextContent {
         padding: 18px!important;
+    }
+    .readmoreButton {
+        font-size: 14px!important;
     }
 }
 .eor tr:nth-child(even) td {
