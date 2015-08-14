@@ -17,7 +17,7 @@
                                             <tr>
                                                 <td class="mcnTextContent" style="padding: 9px; text-align: left">
                                                     <h2 class="smallNegativeBottomSpace2">Lorem ipsum dolor sit amet, ferri consul laudem.</h2>
-                                                    <div style="font-style: italic; color:#787878; font-size:12px; padding-top: 9px;font-weight: bold;"class="blueSubheader">2015.06.02 | Exhibition</div>
+                                                    <div style="font-style: italic; color:#787878; font-size:12px; padding-top: 9px;"class="blueSubheader">2015.06.02 | Exhibition</div>
                                                     Experience how INSIGHT can improve workflow efficiency and the quality of
                                                     patient care at your hospital. Come to booth no. S2G30 to learn more and
                                                     exchange ideas at our bistro while you enjoy coffees and snacks.<br>

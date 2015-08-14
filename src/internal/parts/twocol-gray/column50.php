@@ -20,7 +20,7 @@
 												<h2>Lorem ipsum dolor sit amet, ferri consul laudem.</h2>
 
 												<div
-													style="color:#787878; font-style: italic; font-size:12px; padding-top: 9px;font-weight: bold;"class="blueSubheader">2015.06.02 | Exhibition</div>
+													style="color:#787878; font-style: italic; font-size:12px; padding-top: 9px;"class="blueSubheader">2015.06.02 | Exhibition</div>
 
 												Experience how INSIGHT can improve workflow efficiency and the quality
 												of patient care at your hospital.&nbsp;<br>

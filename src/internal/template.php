@@ -11,11 +11,11 @@
         <?php include("parts/styles/head.css")?>
     </style>
 </head>
-<body bgcolor="#f2f2f2" style="background:#f2f2f2">
+<body bgcolor="#e1eaf1" style="background:#e1eaf1">
 <center>
-    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable" bgcolor="#f2f2f2" style="background:#f2f2f2">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable" bgcolor="#e1eaf1" style="background:#e1eaf1">
         <tr>
-            <td align="center" valign="top" id="bodyCell" bgcolor="#f2f2f2" style="background:#f2f2f2">
+            <td align="center" valign="top" id="bodyCell" bgcolor="#e1eaf1" style="background:#e1eaf1">
                 <!--[if gte mso 9]>
                 <table align="center" border="0" cellspacing="0" cellpadding="0" style="width:600px;" width="600">
                     <tr>
